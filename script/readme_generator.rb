@@ -22,8 +22,8 @@ Dir.foreach('../src') do |d|
 	  if /\d{3}\.(?<lang>.+)/ =~ src
 	    case lang
 		  when 'c'   then p.languages << :c
-		  when 'rb'  then  p.languages << :ruby
-		  when 'lua' then  p.languages << :lua
+		  when 'rb'  then p.languages << :ruby
+		  when 'lua' then p.languages << :lua
 		end
 	  end
 	end
@@ -42,9 +42,9 @@ File.open('../Readme.md', 'w') do |readme|
     p.languages.each do |lang|
       case lang
 	    when :c    then link += "[C](/src/#{p.directory}/#{sprintf('%03d', p.index)}.c) "
-	    when :cpp  then link += "[Ruby](/src/#{p.directory}/#{sprintf('%03d', p.index)}.cpp) "
+	    when :cpp  then link += "[C++](/src/#{p.directory}/#{sprintf('%03d', p.index)}.cpp) "
 	    when :ruby then link += "[Ruby](/src/#{p.directory}/#{sprintf('%03d', p.index)}.rb) "
-	    when :lua  then link += "[Ruby](/src/#{p.directory}/#{sprintf('%03d', p.index)}.lua) "
+	    when :lua  then link += "[Lua](/src/#{p.directory}/#{sprintf('%03d', p.index)}.lua) "
 	  end
     end
   readme.puts "|#{p.index}|[#{p.title}](https://projecteuler.net/problem=#{p.index})|#{link}|"
