@@ -41,10 +41,10 @@ File.open('../Readme.md', 'w') do |readme|
     link = ''
     p.languages.each do |lang|
       case lang
-	    when :c    then link += "[C](/src/#{p.directory}/#{sprintf('%03d', p.index)}.c) "
-	    when :cpp  then link += "[C++](/src/#{p.directory}/#{sprintf('%03d', p.index)}.cpp) "
-	    when :ruby then link += "[Ruby](/src/#{p.directory}/#{sprintf('%03d', p.index)}.rb) "
-	    when :lua  then link += "[Lua](/src/#{p.directory}/#{sprintf('%03d', p.index)}.lua) "
+	    when :c    then link += "[C](/src/#{p.directory}/#{sprintf('%03d', p.index)}.c)\t"
+	    when :cpp  then link += "[C++](/src/#{p.directory}/#{sprintf('%03d', p.index)}.cpp)\t"
+	    when :ruby then link += "[Ruby](/src/#{p.directory}/#{sprintf('%03d', p.index)}.rb)\t"
+	    when :lua  then link += "[Lua](/src/#{p.directory}/#{sprintf('%03d', p.index)}.lua)\t"
 	  end
     end
   readme.puts "|#{p.index}|[#{p.title}](https://projecteuler.net/problem=#{p.index})|#{link}|"
