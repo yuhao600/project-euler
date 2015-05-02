@@ -18,14 +18,3 @@ int main(void)
 	return 0;
 }
 
-int isprime(int num)
-{
-    if (num <= 1)
-	{
-	    return 0;
-	}
-	else if (num <= 3)
-	{
-	    return 1;
-	}
-	
