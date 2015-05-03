@@ -19,7 +19,7 @@ My Project Euler Solutions
 |15|[Lattice paths](https://projecteuler.net/problem=15)|[Lua](/src/015. Lattice paths/015.lua) [Ruby](/src/015. Lattice paths/015.rb) |
 |16|[Power digit sum](https://projecteuler.net/problem=16)|[Ruby](/src/016. Power digit sum/016.rb) |
 |18|[Maximum path sum I](https://projecteuler.net/problem=18)|[Lua](/src/018. Maximum path sum I/018.lua) |
-|19|[Counting Sundays](https://projecteuler.net/problem=19)|[Ruby](/src/019. Counting Sundays/019.rb) |
+|19|[Counting Sundays](https://projecteuler.net/problem=19)|[Java](/src/019. Counting Sundays/019.java) [Ruby](/src/019. Counting Sundays/019.rb) |
 |20|[Factorial digit sum](https://projecteuler.net/problem=20)|[Ruby](/src/020. Factorial digit sum/020.rb) |
 |21|[Amicable numbers](https://projecteuler.net/problem=21)|[Ruby](/src/021. Amicable numbers/021.rb) |
 |25|[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|[Ruby](/src/025. 1000-digit Fibonacci number/025.rb) |
