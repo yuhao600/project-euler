@@ -32,7 +32,7 @@ My Project Euler Solutions
 |41|[Pandigital prime](https://projecteuler.net/problem=41)|[Ruby](/src/041. Pandigital prime/041.rb) |
 |43|[Sub-string divisibility](https://projecteuler.net/problem=43)|[Ruby](/src/043. Sub-string divisibility/043.rb) |
 |45|[Triangular, pentagonal, and hexagonal](https://projecteuler.net/problem=45)|[Lua](/src/045. Triangular, pentagonal, and hexagonal/045.lua) [Ruby](/src/045. Triangular, pentagonal, and hexagonal/045.rb) |
-|48|[Self powers](https://projecteuler.net/problem=48)|[Ruby](/src/048. Self powers/048.rb) |
+|48|[Self powers](https://projecteuler.net/problem=48)|[Java](/src/048. Self powers/048.java) [Ruby](/src/048. Self powers/048.rb) |
 |50|[Consecutive prime sum](https://projecteuler.net/problem=50)|[Ruby](/src/050. Consecutive prime sum/050.rb) |
 |55|[Lychrel numbers](https://projecteuler.net/problem=55)|[Ruby](/src/055. Lychrel numbers/055.rb) |
 |56|[Powerful digit sum](https://projecteuler.net/problem=56)|[Ruby](/src/056. Powerful digit sum/056.rb) |
