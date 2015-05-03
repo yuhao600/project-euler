@@ -2,7 +2,7 @@ My Project Euler Solutions
 ========
 |Index|Title|Solution|
 | ----- | -------- | -------- | ---------- |
-|1|[Multiples of 3 and 5](https://projecteuler.net/problem=1)|[C](/src/001. Multiples of 3 and 5/001.c) [Lua](/src/001. Multiples of 3 and 5/001.lua) [Ruby](/src/001. Multiples of 3 and 5/001.rb) |
+|1|[Multiples of 3 and 5](https://projecteuler.net/problem=1)|[C](/src/001. Multiples of 3 and 5/001.c) [Java](/src/001. Multiples of 3 and 5/001.java) [Lua](/src/001. Multiples of 3 and 5/001.lua) [Ruby](/src/001. Multiples of 3 and 5/001.rb) |
 |2|[Even Fibonacci numbers](https://projecteuler.net/problem=2)|[C](/src/002. Even Fibonacci numbers/002.c) [Lua](/src/002. Even Fibonacci numbers/002.lua) [Ruby](/src/002. Even Fibonacci numbers/002.rb) |
 |3|[Largest prime factor](https://projecteuler.net/problem=3)|[C](/src/003. Largest prime factor/003.c) [Lua](/src/003. Largest prime factor/003.lua) [Ruby](/src/003. Largest prime factor/003.rb) |
 |4|[Largest palindrome product](https://projecteuler.net/problem=4)|[Lua](/src/004. Largest palindrome product/004.lua) [Ruby](/src/004. Largest palindrome product/004.rb) |
@@ -13,6 +13,7 @@ My Project Euler Solutions
 |9|[Special Pythagorean triplet](https://projecteuler.net/problem=9)|[Lua](/src/009. Special Pythagorean triplet/009.lua) [Ruby](/src/009. Special Pythagorean triplet/009.rb) |
 |10|[Summation of primes](https://projecteuler.net/problem=10)|[Lua](/src/010. Summation of primes/010.lua) [Ruby](/src/010. Summation of primes/010.rb) |
 |11|[Largest product in a grid](https://projecteuler.net/problem=11)|[Lua](/src/011. Largest product in a grid/011.lua) [Ruby](/src/011. Largest product in a grid/011.rb) |
+|12|[Highly divisible triangular number](https://projecteuler.net/problem=12)|[Lua](/src/012.Highly divisible triangular number/012.lua) |
 |13|[Large sum](https://projecteuler.net/problem=13)|[Ruby](/src/013. Large sum/013.rb) |
 |14|[Longest Collatz sequence](https://projecteuler.net/problem=14)|[Lua](/src/014. Longest Collatz sequence/014.lua) [Ruby](/src/014. Longest Collatz sequence/014.rb) |
 |15|[Lattice paths](https://projecteuler.net/problem=15)|[Lua](/src/015. Lattice paths/015.lua) [Ruby](/src/015. Lattice paths/015.rb) |
