@@ -22,6 +22,7 @@ My Project Euler Solutions
 |19|[Counting Sundays](https://projecteuler.net/problem=19)|[Java](/src/019. Counting Sundays/019.java) [Ruby](/src/019. Counting Sundays/019.rb) |
 |20|[Factorial digit sum](https://projecteuler.net/problem=20)|[Java](/src/020. Factorial digit sum/020.java) [Ruby](/src/020. Factorial digit sum/020.rb) |
 |21|[Amicable numbers](https://projecteuler.net/problem=21)|[Ruby](/src/021. Amicable numbers/021.rb) |
+|24|[Lexicographic permutations](https://projecteuler.net/problem=24)|[Ruby](/src/024. Lexicographic permutations/024.rb) |
 |25|[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|[Ruby](/src/025. 1000-digit Fibonacci number/025.rb) |
 |26|[Reciprocal cycles](https://projecteuler.net/problem=26)|[Lua](/src/026. Reciprocal cycles/026.lua) |
 |27|[Quadratic primes](https://projecteuler.net/problem=27)|[Ruby](/src/027. Quadratic primes/027.rb) |
