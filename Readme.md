@@ -27,6 +27,7 @@ My Project Euler Solutions
 |26|[Reciprocal cycles](https://projecteuler.net/problem=26)|[Lua](/src/026. Reciprocal cycles/026.lua) |
 |27|[Quadratic primes](https://projecteuler.net/problem=27)|[Ruby](/src/027. Quadratic primes/027.rb) |
 |28|[Number spiral diagonals](https://projecteuler.net/problem=28)|[Lua](/src/028. Number spiral diagonals/028.lua) |
+|29|[Distinct powers](https://projecteuler.net/problem=29)|[Ruby](/src/029. Distinct powers/029.rb) |
 |30|[Digit fifth powers](https://projecteuler.net/problem=30)|[Ruby](/src/030. Digit fifth powers/030.rb) |
 |36|[Double-base palindromes](https://projecteuler.net/problem=36)|[Lua](/src/036. Double-base palindromes/036.lua) |
 |40|[Champernowne's constant](https://projecteuler.net/problem=40)|[Lua](/src/040. Champernowne's constant/040.lua) |
