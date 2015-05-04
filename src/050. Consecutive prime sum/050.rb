@@ -8,9 +8,9 @@ Prime.each do |prime|
   Prime.each(prime) do |small|
     if Prime.prime? result
       max = result if result > max and result < 1000000
-	  break
+      break
     end
-	result -= small
+    result -= small
   end
   break if result > 1000000
 end

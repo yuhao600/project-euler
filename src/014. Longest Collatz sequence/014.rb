@@ -3,9 +3,9 @@ def collatz(num)
   while num != 1
     i += 1
     num = case num.even?
-	      when true  then num / 2
-		  when false then num * 3 + 1
-		  end
+            when true  then num / 2
+            when false then num * 3 + 1
+          end
   end
   return i
 end

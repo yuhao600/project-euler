@@ -4,7 +4,7 @@ function sum_square(num)
   sum = 0
   while num > 0 do
     sum = sum + (num % 10) ^ 2
-	num = math.floor(num / 10)
+    num = math.floor(num / 10)
   end
   return sum
 end
@@ -14,9 +14,9 @@ function chain(num)
   local result
   while not chain_result[num] do
     if num == 1 or num == 89 then
-	  result = num
-	  break
-	end
+      result = num
+      break
+    end
     table.insert(t, num)
     num = sum_square(num)
   end

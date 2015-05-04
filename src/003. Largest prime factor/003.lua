@@ -8,7 +8,7 @@ end
 for f = 3, num, 2 do
   while num % f == 0 do
     num = num / f
-	max = f
+    max = f
   end
   if num == 1 then
     break
