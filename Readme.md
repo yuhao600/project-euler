@@ -38,5 +38,6 @@ My Project Euler Solutions
 |50|[Consecutive prime sum](https://projecteuler.net/problem=50)|[Ruby](/src/050. Consecutive prime sum/050.rb) |
 |55|[Lychrel numbers](https://projecteuler.net/problem=55)|[Ruby](/src/055. Lychrel numbers/055.rb) |
 |56|[Powerful digit sum](https://projecteuler.net/problem=56)|[Ruby](/src/056. Powerful digit sum/056.rb) |
+|71|[Ordered fractions](https://projecteuler.net/problem=71)|[Ruby](/src/071. Ordered fractions/071.rb) |
 |97|[Large non-Mersenne prime](https://projecteuler.net/problem=97)|[Java](/src/097. Large non-Mersenne prime/097.java) [Ruby](/src/097. Large non-Mersenne prime/097.rb) |
 |206|[Concealed Square](https://projecteuler.net/problem=206)|[Ruby](/src/206. Concealed Square/206.rb) |
