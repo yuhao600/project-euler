@@ -45,6 +45,6 @@ My Project Euler Solutions
 |71|[Ordered fractions](https://projecteuler.net/problem=71)|[Ruby](/src/071. Ordered fractions/071.rb) |
 |92|[Square digit chains](https://projecteuler.net/problem=92)|[Lua](/src/092. Square digit chains/092.lua) |
 |97|[Large non-Mersenne prime](https://projecteuler.net/problem=97)|[Java](/src/097. Large non-Mersenne prime/097.java) [Ruby](/src/097. Large non-Mersenne prime/097.rb) |
-|99|[Largest exponential](https://projecteuler.net/problem=99)|[Ruby](/src/099. Largest exponential/099.rb) |
+|99|[Largest exponential](https://projecteuler.net/problem=99)|[Lua](/src/099. Largest exponential/099.lua) [Ruby](/src/099. Largest exponential/099.rb) |
 |112|[Bouncy numbers](https://projecteuler.net/problem=112)|[Ruby](/src/112. Bouncy numbers/112.rb) |
 |206|[Concealed Square](https://projecteuler.net/problem=206)|[Ruby](/src/206. Concealed Square/206.rb) |
