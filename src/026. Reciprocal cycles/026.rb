@@ -12,8 +12,11 @@ class Fixnum
 end
 
 max = 1
+max_cycle = 0
 1.upto(1000) do |n|
-  max = n if n.fracCycle > max.fracCycle
+  if n.fracCycle > max_cycle
+    max, max_cycle = n, n.fracCycle
+  end
 end
 
 puts max
