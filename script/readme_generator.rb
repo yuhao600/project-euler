@@ -38,6 +38,7 @@ problems.sort!
 File.open('../Readme.md', 'w') do |readme|
   readme.puts 'My Project Euler Solutions'
   readme.puts '========'
+  
   readme.puts '|Index|Title|Solution|'
   readme.puts '| ----- | -------- | -------- | ---------- |'
   problems.each do |p|
@@ -54,4 +55,6 @@ File.open('../Readme.md', 'w') do |readme|
     end
   readme.puts "|#{p.index}|[#{p.title}](https://projecteuler.net/problem=#{p.index})|#{link}|"
   end
+  
+  readme.puts '![My Project Euler](https://projecteuler.net/profile/yuhao.png)'
 end
