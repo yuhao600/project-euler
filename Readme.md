@@ -43,7 +43,7 @@ My Project Euler Solutions
 |56|[Powerful digit sum](https://projecteuler.net/problem=56)|[Ruby](/src/056. Powerful digit sum/056.rb) |
 |57|[Square root convergents](https://projecteuler.net/problem=57)|[Ruby](/src/057. Square root convergents/057.rb) |
 |62|[Cubic permutations](https://projecteuler.net/problem=62)|[Ruby](/src/062. Cubic permutations/062.rb) |
-|71|[Ordered fractions](https://projecteuler.net/problem=71)|[Ruby](/src/071. Ordered fractions/071.rb) |
+|71|[Ordered fractions](https://projecteuler.net/problem=71)|[Python](/src/071. Ordered fractions/071.py) [Ruby](/src/071. Ordered fractions/071.rb) |
 |92|[Square digit chains](https://projecteuler.net/problem=92)|[Lua](/src/092. Square digit chains/092.lua) |
 |97|[Large non-Mersenne prime](https://projecteuler.net/problem=97)|[Java](/src/097. Large non-Mersenne prime/097.java) [Python](/src/097. Large non-Mersenne prime/097.py) [Ruby](/src/097. Large non-Mersenne prime/097.rb) |
 |99|[Largest exponential](https://projecteuler.net/problem=99)|[Lua](/src/099. Largest exponential/099.lua) [Ruby](/src/099. Largest exponential/099.rb) |
