@@ -17,4 +17,3 @@ int main(void)
     printf("%llu\n", sum);
     return 0;
 }
-
