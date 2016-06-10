@@ -1,14 +1,14 @@
 class Problem
   include Comparable
   attr_reader :index, :title, :languages, :directory
-  
+
   def initialize(index, title, directory)
     @index = index
     @title = title
     @languages = []
     @directory = directory
   end
-  
+
   def <=>(other)
     self.index <=> other.index
   end
@@ -21,6 +21,7 @@ source_extensions = {
   'lua'  => :lua,
   'py'   => :python,
   'rb'   => :ruby,
+  'hs'   => :haskell,
 }
 
 problems = []
@@ -40,7 +41,7 @@ problems.sort!
 File.open('../Readme.md', 'w') do |readme|
   readme.puts 'My Project Euler Solutions'
   readme.puts '========'
-  
+
   readme.puts '|Index|Title|Solution|'
   readme.puts '| ----- | -------- | -------- | ---------- |'
   problems.each do |p|
@@ -57,6 +58,6 @@ File.open('../Readme.md', 'w') do |readme|
     end
   readme.puts "|#{p.index}|[#{p.title}](https://projecteuler.net/problem=#{p.index})|#{link}|"
   end
-  
+
   readme.puts '![My Project Euler](https://projecteuler.net/profile/yuhao.png)'
 end
