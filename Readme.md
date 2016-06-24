@@ -2,10 +2,10 @@ My Project Euler Solutions
 ========
 |Index|Title|Solution|
 | ----- | -------- | -------- | ---------- |
-|1|[Multiples of 3 and 5](https://projecteuler.net/problem=1)|[C](/src/001. Multiples of 3 and 5/001.c) [C++](/src/001. Multiples of 3 and 5/001.cpp) [Java](/src/001. Multiples of 3 and 5/001.java) [Lua](/src/001. Multiples of 3 and 5/001.lua) [Python](/src/001. Multiples of 3 and 5/001.py) [Ruby](/src/001. Multiples of 3 and 5/001.rb) |
+|1|[Multiples of 3 and 5](https://projecteuler.net/problem=1)|[C](/src/001. Multiples of 3 and 5/001.c) [C++](/src/001. Multiples of 3 and 5/001.cpp) [Haskell](/src/001. Multiples of 3 and 5/001.hs) [Java](/src/001. Multiples of 3 and 5/001.java) [Lua](/src/001. Multiples of 3 and 5/001.lua) [Python](/src/001. Multiples of 3 and 5/001.py) [Ruby](/src/001. Multiples of 3 and 5/001.rb) |
 |2|[Even Fibonacci numbers](https://projecteuler.net/problem=2)|[C](/src/002. Even Fibonacci numbers/002.c) [C++](/src/002. Even Fibonacci numbers/002.cpp) [Java](/src/002. Even Fibonacci numbers/002.java) [Lua](/src/002. Even Fibonacci numbers/002.lua) [Ruby](/src/002. Even Fibonacci numbers/002.rb) |
 |3|[Largest prime factor](https://projecteuler.net/problem=3)|[C](/src/003. Largest prime factor/003.c) [Lua](/src/003. Largest prime factor/003.lua) [Ruby](/src/003. Largest prime factor/003.rb) |
-|4|[Largest palindrome product](https://projecteuler.net/problem=4)|[Lua](/src/004. Largest palindrome product/004.lua) [Ruby](/src/004. Largest palindrome product/004.rb) |
+|4|[Largest palindrome product](https://projecteuler.net/problem=4)|[Haskell](/src/004. Largest palindrome product/004.hs) [Lua](/src/004. Largest palindrome product/004.lua) [Ruby](/src/004. Largest palindrome product/004.rb) |
 |5|[Smallest multiple](https://projecteuler.net/problem=5)|[Lua](/src/005. Smallest multiple/005.lua) [Python](/src/005. Smallest multiple/005.py) [Ruby](/src/005. Smallest multiple/005.rb) |
 |6|[Sum square difference](https://projecteuler.net/problem=6)|[Lua](/src/006. Sum square difference/006.lua) [Python](/src/006. Sum square difference/006.py) [Ruby](/src/006. Sum square difference/006.rb) |
 |7|[10001st prime](https://projecteuler.net/problem=7)|[Lua](/src/007. 10001st prime/007.lua) [Ruby](/src/007. 10001st prime/007.rb) |

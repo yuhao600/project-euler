@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 class Problem
   include Comparable
   attr_reader :index, :title, :languages, :directory
@@ -48,12 +50,13 @@ File.open('../Readme.md', 'w') do |readme|
     link = ''
     p.languages.each do |lang|
       case lang
-        when :c      then link += "[C](/src/#{p.directory}/#{sprintf('%03d', p.index)}.c) "
-        when :cpp    then link += "[C++](/src/#{p.directory}/#{sprintf('%03d', p.index)}.cpp) "
-        when :java   then link += "[Java](/src/#{p.directory}/#{sprintf('%03d', p.index)}.java) "
-        when :lua    then link += "[Lua](/src/#{p.directory}/#{sprintf('%03d', p.index)}.lua) "
-        when :python then link += "[Python](/src/#{p.directory}/#{sprintf('%03d', p.index)}.py) "
-        when :ruby   then link += "[Ruby](/src/#{p.directory}/#{sprintf('%03d', p.index)}.rb) "
+        when :c       then link += "[C](/src/#{p.directory}/#{sprintf('%03d', p.index)}.c) "
+        when :cpp     then link += "[C++](/src/#{p.directory}/#{sprintf('%03d', p.index)}.cpp) "
+        when :haskell then link += "[Haskell](/src/#{p.directory}/#{sprintf('%03d', p.index)}.hs) "
+        when :java    then link += "[Java](/src/#{p.directory}/#{sprintf('%03d', p.index)}.java) "
+        when :lua     then link += "[Lua](/src/#{p.directory}/#{sprintf('%03d', p.index)}.lua) "
+        when :python  then link += "[Python](/src/#{p.directory}/#{sprintf('%03d', p.index)}.py) "
+        when :ruby    then link += "[Ruby](/src/#{p.directory}/#{sprintf('%03d', p.index)}.rb) "
       end
     end
   readme.puts "|#{p.index}|[#{p.title}](https://projecteuler.net/problem=#{p.index})|#{link}|"
