@@ -13,7 +13,7 @@ My Project Euler Solutions
 |9|[Special Pythagorean triplet](https://projecteuler.net/problem=9)|[Lua](/src/009. Special Pythagorean triplet/009.lua) [Ruby](/src/009. Special Pythagorean triplet/009.rb) |
 |10|[Summation of primes](https://projecteuler.net/problem=10)|[Lua](/src/010. Summation of primes/010.lua) [Ruby](/src/010. Summation of primes/010.rb) |
 |11|[Largest product in a grid](https://projecteuler.net/problem=11)|[Lua](/src/011. Largest product in a grid/011.lua) [Ruby](/src/011. Largest product in a grid/011.rb) |
-|12|[Highly divisible triangular number](https://projecteuler.net/problem=12)|[Java](/src/012.Highly divisible triangular number/012.java) [Lua](/src/012.Highly divisible triangular number/012.lua) |
+|12|[Highly divisible triangular number](https://projecteuler.net/problem=12)|[Lua](/src/012. Highly divisible triangular number/012.lua) [Java](/src/012. Highly divisible triangular number/012.java) |
 |13|[Large sum](https://projecteuler.net/problem=13)|[Ruby](/src/013. Large sum/013.rb) |
 |14|[Longest Collatz sequence](https://projecteuler.net/problem=14)|[Lua](/src/014. Longest Collatz sequence/014.lua) [Ruby](/src/014. Longest Collatz sequence/014.rb) |
 |15|[Lattice paths](https://projecteuler.net/problem=15)|[Lua](/src/015. Lattice paths/015.lua) [Ruby](/src/015. Lattice paths/015.rb) |
@@ -31,7 +31,7 @@ My Project Euler Solutions
 |30|[Digit fifth powers](https://projecteuler.net/problem=30)|[Ruby](/src/030. Digit fifth powers/030.rb) |
 |33|[Digit cancelling fractions](https://projecteuler.net/problem=33)|[Python](/src/033. Digit cancelling fractions/033.py) [Ruby](/src/033. Digit cancelling fractions/033.rb) |
 |36|[Double-base palindromes](https://projecteuler.net/problem=36)|[Lua](/src/036. Double-base palindromes/036.lua) [Ruby](/src/036. Double-base palindromes/036.rb) |
-|40|[Champernowne's constant](https://projecteuler.net/problem=40)|[Java](/src/040. Champernowne's constant/040.java) [Lua](/src/040. Champernowne's constant/040.lua) |
+|40|[Champernowne's constant](https://projecteuler.net/problem=40)|[Java](/src/040. Champernowne's constant/040.java) [Lua](/src/040. Champernowne's constant/040.lua) [Haskell](/src/040. Champernowne's constant/040.hs) |
 |41|[Pandigital prime](https://projecteuler.net/problem=41)|[Ruby](/src/041. Pandigital prime/041.rb) |
 |43|[Sub-string divisibility](https://projecteuler.net/problem=43)|[Ruby](/src/043. Sub-string divisibility/043.rb) |
 |45|[Triangular, pentagonal, and hexagonal](https://projecteuler.net/problem=45)|[Java](/src/045. Triangular, pentagonal, and hexagonal/045.java) [Lua](/src/045. Triangular, pentagonal, and hexagonal/045.lua) [Ruby](/src/045. Triangular, pentagonal, and hexagonal/045.rb) |
