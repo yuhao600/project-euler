@@ -41,7 +41,7 @@ My Project Euler Solutions
 |50|[Consecutive prime sum](https://projecteuler.net/problem=50)|[Ruby](/src/050. Consecutive prime sum/050.rb) |
 |53|[Combinatoric selections](https://projecteuler.net/problem=53)|[Java](/src/053. Combinatoric selections/053.java) [Ruby](/src/053. Combinatoric selections/053.rb) |
 |55|[Lychrel numbers](https://projecteuler.net/problem=55)|[Ruby](/src/055. Lychrel numbers/055.rb) |
-|56|[Powerful digit sum](https://projecteuler.net/problem=56)|[Ruby](/src/056. Powerful digit sum/056.rb) |
+|56|[Powerful digit sum](https://projecteuler.net/problem=56)|[Ruby](/src/056. Powerful digit sum/056.rb) [Python](/src/056. Powerful digit sum/056.py) |
 |57|[Square root convergents](https://projecteuler.net/problem=57)|[Python](/src/057. Square root convergents/057.py) [Ruby](/src/057. Square root convergents/057.rb) |
 |62|[Cubic permutations](https://projecteuler.net/problem=62)|[Ruby](/src/062. Cubic permutations/062.rb) |
 |71|[Ordered fractions](https://projecteuler.net/problem=71)|[Python](/src/071. Ordered fractions/071.py) [Ruby](/src/071. Ordered fractions/071.rb) |
