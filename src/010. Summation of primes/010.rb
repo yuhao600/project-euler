@@ -1,1 +1,3 @@
-require 'prime'puts Prime.each(2000000).inject(:+)
+require 'prime'
+
+puts Prime.each(2000000).inject(:+)
