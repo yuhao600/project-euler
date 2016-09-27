@@ -32,6 +32,7 @@ My Project Euler Solutions
 |30|[Digit fifth powers](https://projecteuler.net/problem=30)|[Ruby](/src/030. Digit fifth powers/030.rb) [Python](/src/030. Digit fifth powers/030.py) |
 |33|[Digit cancelling fractions](https://projecteuler.net/problem=33)|[Python](/src/033. Digit cancelling fractions/033.py) [Ruby](/src/033. Digit cancelling fractions/033.rb) |
 |36|[Double-base palindromes](https://projecteuler.net/problem=36)|[Lua](/src/036. Double-base palindromes/036.lua) [Ruby](/src/036. Double-base palindromes/036.rb) |
+|37|[Truncatable primes](https://projecteuler.net/problem=37)|[Ruby](/src/037. Truncatable primes/037.rb) |
 |40|[Champernowne's constant](https://projecteuler.net/problem=40)|[Java](/src/040. Champernowne's constant/040.java) [Lua](/src/040. Champernowne's constant/040.lua) [Haskell](/src/040. Champernowne's constant/040.hs) |
 |41|[Pandigital prime](https://projecteuler.net/problem=41)|[Ruby](/src/041. Pandigital prime/041.rb) |
 |43|[Sub-string divisibility](https://projecteuler.net/problem=43)|[Ruby](/src/043. Sub-string divisibility/043.rb) |
