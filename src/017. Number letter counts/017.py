@@ -1,6 +1,3 @@
-from functools import reduce
-import operator
-
 n = [None] * 1001
 n[0] = 'zero'
 n[1] = 'one'
@@ -45,4 +42,4 @@ for c in range(1, 10):
 n[1000] = n[1] + 'thousand'
 
 n.pop(0) # remove zero
-print(reduce(operator.add, [len(num) for num in n]))
+print(sum([len(num) for num in n]))
