@@ -39,7 +39,7 @@ My Project Euler Solutions
 |37|[Truncatable primes](https://projecteuler.net/problem=37)|[Ruby](/src/037. Truncatable primes/037.rb) |
 |40|[Champernowne's constant](https://projecteuler.net/problem=40)|[Java](/src/040. Champernowne's constant/040.java) [Lua](/src/040. Champernowne's constant/040.lua) [Haskell](/src/040. Champernowne's constant/040.hs) |
 |41|[Pandigital prime](https://projecteuler.net/problem=41)|[Ruby](/src/041. Pandigital prime/041.rb) |
-|43|[Sub-string divisibility](https://projecteuler.net/problem=43)|[Ruby](/src/043. Sub-string divisibility/043.rb) |
+|43|[Sub-string divisibility](https://projecteuler.net/problem=43)|[Ruby](/src/043. Sub-string divisibility/043.rb) [Python](/src/043. Sub-string divisibility/043.py) |
 |45|[Triangular, pentagonal, and hexagonal](https://projecteuler.net/problem=45)|[Java](/src/045. Triangular, pentagonal, and hexagonal/045.java) [Lua](/src/045. Triangular, pentagonal, and hexagonal/045.lua) [Ruby](/src/045. Triangular, pentagonal, and hexagonal/045.rb) |
 |48|[Self powers](https://projecteuler.net/problem=48)|[Haskell](/src/048. Self powers/048.hs) [Java](/src/048. Self powers/048.java) [Python](/src/048. Self powers/048.py) [Ruby](/src/048. Self powers/048.rb) |
 |49|[Prime permutations](https://projecteuler.net/problem=49)|[Ruby](/src/049. Prime permutations/049.rb) |
