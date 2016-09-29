@@ -41,6 +41,7 @@ My Project Euler Solutions
 |41|[Pandigital prime](https://projecteuler.net/problem=41)|[Ruby](/src/041. Pandigital prime/041.rb) |
 |43|[Sub-string divisibility](https://projecteuler.net/problem=43)|[Ruby](/src/043. Sub-string divisibility/043.rb) [Python](/src/043. Sub-string divisibility/043.py) |
 |45|[Triangular, pentagonal, and hexagonal](https://projecteuler.net/problem=45)|[Java](/src/045. Triangular, pentagonal, and hexagonal/045.java) [Lua](/src/045. Triangular, pentagonal, and hexagonal/045.lua) [Ruby](/src/045. Triangular, pentagonal, and hexagonal/045.rb) |
+|47|[Distinct primes factors](https://projecteuler.net/problem=47)|[Ruby](/src/047. Distinct primes factors/047.rb) |
 |48|[Self powers](https://projecteuler.net/problem=48)|[Haskell](/src/048. Self powers/048.hs) [Java](/src/048. Self powers/048.java) [Python](/src/048. Self powers/048.py) [Ruby](/src/048. Self powers/048.rb) |
 |49|[Prime permutations](https://projecteuler.net/problem=49)|[Ruby](/src/049. Prime permutations/049.rb) |
 |50|[Consecutive prime sum](https://projecteuler.net/problem=50)|[Ruby](/src/050. Consecutive prime sum/050.rb) |
