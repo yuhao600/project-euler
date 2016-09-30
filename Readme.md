@@ -10,7 +10,7 @@ My Project Euler Solutions
 |6|[Sum square difference](https://projecteuler.net/problem=6)|[Lua](/src/006. Sum square difference/006.lua) [Python](/src/006. Sum square difference/006.py) [Ruby](/src/006. Sum square difference/006.rb) [C++](/src/006. Sum square difference/006.cpp) [C](/src/006. Sum square difference/006.c) |
 |7|[10001st prime](https://projecteuler.net/problem=7)|[Lua](/src/007. 10001st prime/007.lua) [Ruby](/src/007. 10001st prime/007.rb) |
 |8|[Largest product in a series](https://projecteuler.net/problem=8)|[Ruby](/src/008. Largest product in a series/008.rb) |
-|9|[Special Pythagorean triplet](https://projecteuler.net/problem=9)|[Lua](/src/009. Special Pythagorean triplet/009.lua) [Ruby](/src/009. Special Pythagorean triplet/009.rb) |
+|9|[Special Pythagorean triplet](https://projecteuler.net/problem=9)|[Lua](/src/009. Special Pythagorean triplet/009.lua) [Ruby](/src/009. Special Pythagorean triplet/009.rb) [Haskell](/src/009. Special Pythagorean triplet/009.hs) |
 |10|[Summation of primes](https://projecteuler.net/problem=10)|[Lua](/src/010. Summation of primes/010.lua) [Ruby](/src/010. Summation of primes/010.rb) |
 |11|[Largest product in a grid](https://projecteuler.net/problem=11)|[Lua](/src/011. Largest product in a grid/011.lua) [Ruby](/src/011. Largest product in a grid/011.rb) |
 |12|[Highly divisible triangular number](https://projecteuler.net/problem=12)|[Lua](/src/012. Highly divisible triangular number/012.lua) [Java](/src/012. Highly divisible triangular number/012.java) |
