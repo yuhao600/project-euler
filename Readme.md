@@ -7,7 +7,7 @@ My Project Euler Solutions
 |3|[Largest prime factor](https://projecteuler.net/problem=3)|[C](/src/003. Largest prime factor/003.c) [Lua](/src/003. Largest prime factor/003.lua) [Ruby](/src/003. Largest prime factor/003.rb) [C++](/src/003. Largest prime factor/003.cpp) |
 |4|[Largest palindrome product](https://projecteuler.net/problem=4)|[Haskell](/src/004. Largest palindrome product/004.hs) [Lua](/src/004. Largest palindrome product/004.lua) [Ruby](/src/004. Largest palindrome product/004.rb) |
 |5|[Smallest multiple](https://projecteuler.net/problem=5)|[Lua](/src/005. Smallest multiple/005.lua) [Python](/src/005. Smallest multiple/005.py) [Ruby](/src/005. Smallest multiple/005.rb) |
-|6|[Sum square difference](https://projecteuler.net/problem=6)|[Lua](/src/006. Sum square difference/006.lua) [Python](/src/006. Sum square difference/006.py) [Ruby](/src/006. Sum square difference/006.rb) |
+|6|[Sum square difference](https://projecteuler.net/problem=6)|[Lua](/src/006. Sum square difference/006.lua) [Python](/src/006. Sum square difference/006.py) [Ruby](/src/006. Sum square difference/006.rb) [C++](/src/006. Sum square difference/006.cpp) [C](/src/006. Sum square difference/006.c) |
 |7|[10001st prime](https://projecteuler.net/problem=7)|[Lua](/src/007. 10001st prime/007.lua) [Ruby](/src/007. 10001st prime/007.rb) |
 |8|[Largest product in a series](https://projecteuler.net/problem=8)|[Ruby](/src/008. Largest product in a series/008.rb) |
 |9|[Special Pythagorean triplet](https://projecteuler.net/problem=9)|[Lua](/src/009. Special Pythagorean triplet/009.lua) [Ruby](/src/009. Special Pythagorean triplet/009.rb) |
