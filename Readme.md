@@ -52,6 +52,7 @@ My Project Euler Solutions
 |57|[Square root convergents](https://projecteuler.net/problem=57)|[Python](/src/057. Square root convergents/057.py) [Ruby](/src/057. Square root convergents/057.rb) |
 |62|[Cubic permutations](https://projecteuler.net/problem=62)|[Ruby](/src/062. Cubic permutations/062.rb) |
 |71|[Ordered fractions](https://projecteuler.net/problem=71)|[Python](/src/071. Ordered fractions/071.py) [Ruby](/src/071. Ordered fractions/071.rb) |
+|87|[Prime power triples](https://projecteuler.net/problem=87)|[Ruby](/src/087. Prime power triples/087.rb) |
 |92|[Square digit chains](https://projecteuler.net/problem=92)|[Lua](/src/092. Square digit chains/092.lua) |
 |97|[Large non-Mersenne prime](https://projecteuler.net/problem=97)|[Haskell](/src/097. Large non-Mersenne prime/097.hs) [Java](/src/097. Large non-Mersenne prime/097.java) [Python](/src/097. Large non-Mersenne prime/097.py) [Ruby](/src/097. Large non-Mersenne prime/097.rb) |
 |99|[Largest exponential](https://projecteuler.net/problem=99)|[Lua](/src/099. Largest exponential/099.lua) [Python](/src/099. Largest exponential/099.py) [Ruby](/src/099. Largest exponential/099.rb) |
