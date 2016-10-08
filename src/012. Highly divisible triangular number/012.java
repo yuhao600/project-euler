@@ -28,6 +28,13 @@ public class Main
             }
             factor += 1;
         }
-        return count * 2;
+        if (factor * factor > num)
+        {
+            return count * 2;
+        }
+        else
+        {
+            return count * 2 + 1;
+        }
     }
 }

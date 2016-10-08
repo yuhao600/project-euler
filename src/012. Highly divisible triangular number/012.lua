@@ -1,13 +1,17 @@
 function num_of_factors(num)
-  n = 0
-  factor = 1
+  local n = 0
+  local factor = 1
   while factor < math.sqrt(num) do
     if num % factor == 0 then
       n = n + 1
     end
     factor = factor + 1
   end
-  return n * 2
+  if factor * factor > num then
+    return n * 2
+  else
+    return n * 2 + 1
+  end
 end
 
 triangle = 0
