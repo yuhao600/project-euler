@@ -13,7 +13,7 @@ My Project Euler Solutions
 |9|[Special Pythagorean triplet](https://projecteuler.net/problem=9)|[Lua](/src/009. Special Pythagorean triplet/009.lua) [Ruby](/src/009. Special Pythagorean triplet/009.rb) [Haskell](/src/009. Special Pythagorean triplet/009.hs) [Python](/src/009. Special Pythagorean triplet/009.py) |
 |10|[Summation of primes](https://projecteuler.net/problem=10)|[Lua](/src/010. Summation of primes/010.lua) [Ruby](/src/010. Summation of primes/010.rb) |
 |11|[Largest product in a grid](https://projecteuler.net/problem=11)|[Lua](/src/011. Largest product in a grid/011.lua) [Ruby](/src/011. Largest product in a grid/011.rb) |
-|12|[Highly divisible triangular number](https://projecteuler.net/problem=12)|[Lua](/src/012. Highly divisible triangular number/012.lua) [Java](/src/012. Highly divisible triangular number/012.java) |
+|12|[Highly divisible triangular number](https://projecteuler.net/problem=12)|[Lua](/src/012. Highly divisible triangular number/012.lua) [Java](/src/012. Highly divisible triangular number/012.java) [Ruby](/src/012. Highly divisible triangular number/012.rb) |
 |13|[Large sum](https://projecteuler.net/problem=13)|[Ruby](/src/013. Large sum/013.rb) [Python](/src/013. Large sum/013.py) |
 |14|[Longest Collatz sequence](https://projecteuler.net/problem=14)|[Lua](/src/014. Longest Collatz sequence/014.lua) [Ruby](/src/014. Longest Collatz sequence/014.rb) |
 |15|[Lattice paths](https://projecteuler.net/problem=15)|[Lua](/src/015. Lattice paths/015.lua) [Ruby](/src/015. Lattice paths/015.rb) |
