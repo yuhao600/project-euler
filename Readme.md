@@ -50,6 +50,7 @@ My Project Euler Solutions
 |55|[Lychrel numbers](https://projecteuler.net/problem=55)|[Ruby](/src/055. Lychrel numbers/055.rb) |
 |56|[Powerful digit sum](https://projecteuler.net/problem=56)|[Ruby](/src/056. Powerful digit sum/056.rb) [Python](/src/056. Powerful digit sum/056.py) |
 |57|[Square root convergents](https://projecteuler.net/problem=57)|[Python](/src/057. Square root convergents/057.py) [Ruby](/src/057. Square root convergents/057.rb) |
+|58|[Spiral primes](https://projecteuler.net/problem=58)|[Ruby](/src/058. Spiral primes/058.rb) |
 |62|[Cubic permutations](https://projecteuler.net/problem=62)|[Ruby](/src/062. Cubic permutations/062.rb) |
 |71|[Ordered fractions](https://projecteuler.net/problem=71)|[Python](/src/071. Ordered fractions/071.py) [Ruby](/src/071. Ordered fractions/071.rb) |
 |87|[Prime power triples](https://projecteuler.net/problem=87)|[Ruby](/src/087. Prime power triples/087.rb) |
