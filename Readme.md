@@ -53,7 +53,7 @@ My Project Euler Solutions
 |58|[Spiral primes](https://projecteuler.net/problem=58)|[Ruby](/src/058. Spiral primes/058.rb) |
 |62|[Cubic permutations](https://projecteuler.net/problem=62)|[Ruby](/src/062. Cubic permutations/062.rb) |
 |71|[Ordered fractions](https://projecteuler.net/problem=71)|[Python](/src/071. Ordered fractions/071.py) [Ruby](/src/071. Ordered fractions/071.rb) |
-|73|[Counting fractions in a range](https://projecteuler.net/problem=73)|[Ruby](/src/073. Counting fractions in a range/073.rb) |
+|73|[Counting fractions in a range](https://projecteuler.net/problem=73)|[Python](/src/073. Counting fractions in a range/073.py) [Ruby](/src/073. Counting fractions in a range/073.rb) |
 |87|[Prime power triples](https://projecteuler.net/problem=87)|[Ruby](/src/087. Prime power triples/087.rb) |
 |92|[Square digit chains](https://projecteuler.net/problem=92)|[Lua](/src/092. Square digit chains/092.lua) |
 |97|[Large non-Mersenne prime](https://projecteuler.net/problem=97)|[Haskell](/src/097. Large non-Mersenne prime/097.hs) [Java](/src/097. Large non-Mersenne prime/097.java) [Python](/src/097. Large non-Mersenne prime/097.py) [Ruby](/src/097. Large non-Mersenne prime/097.rb) |
