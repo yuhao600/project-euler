@@ -7,7 +7,7 @@ def collatz(num)
             when false then num * 3 + 1
           end
   end
-  return i
+  i
 end
 
 max_num = 0
