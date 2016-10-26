@@ -10,9 +10,11 @@ end
 
 count = 0.0
 n = 1
-while count / n < 0.99
+while true
   count += 1 if n.bouncy?
+  if count / n == 0.99
+    puts n
+    break
+  end
   n += 1
 end
-
-puts n
