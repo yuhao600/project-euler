@@ -57,7 +57,7 @@ My Project Euler Solutions
 |87|[Prime power triples](https://projecteuler.net/problem=87)|[Ruby](/src/087. Prime power triples/087.rb) |
 |92|[Square digit chains](https://projecteuler.net/problem=92)|[Lua](/src/092. Square digit chains/092.lua) |
 |97|[Large non-Mersenne prime](https://projecteuler.net/problem=97)|[Haskell](/src/097. Large non-Mersenne prime/097.hs) [Java](/src/097. Large non-Mersenne prime/097.java) [Python](/src/097. Large non-Mersenne prime/097.py) [Ruby](/src/097. Large non-Mersenne prime/097.rb) |
-|99|[Largest exponential](https://projecteuler.net/problem=99)|[Lua](/src/099. Largest exponential/099.lua) [Python](/src/099. Largest exponential/099.py) [Ruby](/src/099. Largest exponential/099.rb) |
+|99|[Largest exponential](https://projecteuler.net/problem=99)|[Lua](/src/099. Largest exponential/099.lua) [Python](/src/099. Largest exponential/099.py) [Ruby](/src/099. Largest exponential/099.rb) [C++](/src/099. Largest exponential/099.cpp) |
 |112|[Bouncy numbers](https://projecteuler.net/problem=112)|[Ruby](/src/112. Bouncy numbers/112.rb) |
 |206|[Concealed Square](https://projecteuler.net/problem=206)|[Ruby](/src/206. Concealed Square/206.rb) [Python](/src/206. Concealed Square/206.py) |
 |357|[Prime generating integers](https://projecteuler.net/problem=357)|[Ruby](/src/357. Prime generating integers/357.rb) |
