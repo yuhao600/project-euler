@@ -18,7 +18,7 @@ My Project Euler Solutions
 |14|[Longest Collatz sequence](https://projecteuler.net/problem=14)|[Lua](/src/014. Longest Collatz sequence/014.lua) [Ruby](/src/014. Longest Collatz sequence/014.rb) [Python](/src/014. Longest Collatz sequence/014.py) [C++](/src/014. Longest Collatz sequence/014.cpp) [C](/src/014. Longest Collatz sequence/014.c) |
 |15|[Lattice paths](https://projecteuler.net/problem=15)|[Lua](/src/015. Lattice paths/015.lua) [Ruby](/src/015. Lattice paths/015.rb) |
 |16|[Power digit sum](https://projecteuler.net/problem=16)|[Java](/src/016. Power digit sum/016.java) [Python](/src/016. Power digit sum/016.py) [Ruby](/src/016. Power digit sum/016.rb) [Haskell](/src/016. Power digit sum/016.hs) |
-|17|[Number letter counts](https://projecteuler.net/problem=17)|[Python](/src/017. Number letter counts/017.py) [Ruby](/src/017. Number letter counts/017.rb) [Lua](/src/017. Number letter counts/017.lua) [C++](/src/017. Number letter counts/017.cpp) |
+|17|[Number letter counts](https://projecteuler.net/problem=17)|[Python](/src/017. Number letter counts/017.py) [Ruby](/src/017. Number letter counts/017.rb) [Lua](/src/017. Number letter counts/017.lua) [C++](/src/017. Number letter counts/017.cpp) [C](/src/017. Number letter counts/017.c) |
 |18|[Maximum path sum I](https://projecteuler.net/problem=18)|[Lua](/src/018. Maximum path sum I/018.lua) |
 |19|[Counting Sundays](https://projecteuler.net/problem=19)|[Java](/src/019. Counting Sundays/019.java) [Ruby](/src/019. Counting Sundays/019.rb) |
 |20|[Factorial digit sum](https://projecteuler.net/problem=20)|[Java](/src/020. Factorial digit sum/020.java) [Ruby](/src/020. Factorial digit sum/020.rb) [Python](/src/020. Factorial digit sum/020.py) [Haskell](/src/020. Factorial digit sum/020.hs) |
