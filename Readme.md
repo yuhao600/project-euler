@@ -61,4 +61,5 @@ My Project Euler Solutions
 |112|[Bouncy numbers](https://projecteuler.net/problem=112)|[Ruby](/src/112. Bouncy numbers/112.rb) [C++](/src/112. Bouncy numbers/112.cpp) |
 |206|[Concealed Square](https://projecteuler.net/problem=206)|[Ruby](/src/206. Concealed Square/206.rb) [Python](/src/206. Concealed Square/206.py) |
 |357|[Prime generating integers](https://projecteuler.net/problem=357)|[Ruby](/src/357. Prime generating integers/357.rb) |
+|387|[Harshad Numbers](https://projecteuler.net/problem=387)|[Ruby](/src/387. Harshad Numbers/387.rb) |
 ![My Project Euler](https://projecteuler.net/profile/yuhao.png)
