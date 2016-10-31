@@ -52,6 +52,7 @@ My Project Euler Solutions
 |57|[Square root convergents](https://projecteuler.net/problem=57)|[Python](/src/057. Square root convergents/057.py) [Ruby](/src/057. Square root convergents/057.rb) |
 |58|[Spiral primes](https://projecteuler.net/problem=58)|[Ruby](/src/058. Spiral primes/058.rb) |
 |62|[Cubic permutations](https://projecteuler.net/problem=62)|[Ruby](/src/062. Cubic permutations/062.rb) |
+|69|[Totient maximum](https://projecteuler.net/problem=69)|[Ruby](/src/069. Totient maximum/069.rb) |
 |71|[Ordered fractions](https://projecteuler.net/problem=71)|[Python](/src/071. Ordered fractions/071.py) [Ruby](/src/071. Ordered fractions/071.rb) |
 |73|[Counting fractions in a range](https://projecteuler.net/problem=73)|[Python](/src/073. Counting fractions in a range/073.py) [Ruby](/src/073. Counting fractions in a range/073.rb) |
 |80|[Square root digital expansion](https://projecteuler.net/problem=80)|[Ruby](/src/080. Square root digital expansion/080.rb) |
