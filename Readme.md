@@ -55,7 +55,7 @@ My Project Euler Solutions
 |69|[Totient maximum](https://projecteuler.net/problem=69)|[Ruby](/src/069. Totient maximum/069.rb) |
 |71|[Ordered fractions](https://projecteuler.net/problem=71)|[Python](/src/071. Ordered fractions/071.py) [Ruby](/src/071. Ordered fractions/071.rb) |
 |73|[Counting fractions in a range](https://projecteuler.net/problem=73)|[Python](/src/073. Counting fractions in a range/073.py) [Ruby](/src/073. Counting fractions in a range/073.rb) |
-|74|[Digit factorial chains](https://projecteuler.net/problem=74)|[Ruby](/src/074. Digit factorial chains/074.rb) |
+|74|[Digit factorial chains](https://projecteuler.net/problem=74)|[Python](/src/074. Digit factorial chains/074.py) [Ruby](/src/074. Digit factorial chains/074.rb) |
 |80|[Square root digital expansion](https://projecteuler.net/problem=80)|[Ruby](/src/080. Square root digital expansion/080.rb) |
 |87|[Prime power triples](https://projecteuler.net/problem=87)|[Ruby](/src/087. Prime power triples/087.rb) |
 |92|[Square digit chains](https://projecteuler.net/problem=92)|[Lua](/src/092. Square digit chains/092.lua) [C++](/src/092. Square digit chains/092.cpp) |
