@@ -6,19 +6,6 @@ std::vector<long long> factorial;
 void init_factorial();
 long long digit_fact(long long n);
 
-/*
-counter = 0
-for n in range(10 ** 6):
-    m = n
-    sequence = set()
-    while True:
-        sequence.add(m)
-        m = digit_fact(m)
-        if m in sequence:
-            break
-    if len(sequence) == 60:
-        counter += 1
-*/
 int main()
 {
     init_factorial();
@@ -59,4 +46,3 @@ long long digit_fact(long long n)
     }
     return sum;
 }
-
