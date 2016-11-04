@@ -33,7 +33,7 @@ My Project Euler Solutions
 |29|[Distinct powers](https://projecteuler.net/problem=29)|[Haskell](/src/029. Distinct powers/029.hs) [Java](/src/029. Distinct powers/029.java) [Python](/src/029. Distinct powers/029.py) [Ruby](/src/029. Distinct powers/029.rb) |
 |30|[Digit fifth powers](https://projecteuler.net/problem=30)|[Ruby](/src/030. Digit fifth powers/030.rb) [Python](/src/030. Digit fifth powers/030.py) |
 |33|[Digit cancelling fractions](https://projecteuler.net/problem=33)|[Python](/src/033. Digit cancelling fractions/033.py) [Ruby](/src/033. Digit cancelling fractions/033.rb) |
-|34|[Digit factorials](https://projecteuler.net/problem=34)|[Ruby](/src/034. Digit factorials/034.rb) [C++](/src/034. Digit factorials/034.cpp) [Lua](/src/034. Digit factorials/034.lua) [Python](/src/034. Digit factorials/034.py) |
+|34|[Digit factorials](https://projecteuler.net/problem=34)|[Ruby](/src/034. Digit factorials/034.rb) [C++](/src/034. Digit factorials/034.cpp) [Lua](/src/034. Digit factorials/034.lua) [Python](/src/034. Digit factorials/034.py) [C](/src/034. Digit factorials/034.c) |
 |35|[Circular primes](https://projecteuler.net/problem=35)|[Ruby](/src/035. Circular primes/035.rb) |
 |36|[Double-base palindromes](https://projecteuler.net/problem=36)|[Lua](/src/036. Double-base palindromes/036.lua) [Ruby](/src/036. Double-base palindromes/036.rb) |
 |37|[Truncatable primes](https://projecteuler.net/problem=37)|[Ruby](/src/037. Truncatable primes/037.rb) |
