@@ -23,7 +23,7 @@ My Project Euler Solutions
 |19|[Counting Sundays](https://projecteuler.net/problem=19)|[Java](/src/019. Counting Sundays/019.java) [Ruby](/src/019. Counting Sundays/019.rb) |
 |20|[Factorial digit sum](https://projecteuler.net/problem=20)|[Java](/src/020. Factorial digit sum/020.java) [Ruby](/src/020. Factorial digit sum/020.rb) [Python](/src/020. Factorial digit sum/020.py) [Haskell](/src/020. Factorial digit sum/020.hs) |
 |21|[Amicable numbers](https://projecteuler.net/problem=21)|[Ruby](/src/021. Amicable numbers/021.rb) |
-|22|[Names scores](https://projecteuler.net/problem=22)|[Ruby](/src/022. Names scores/022.rb) |
+|22|[Names scores](https://projecteuler.net/problem=22)|[Ruby](/src/022. Names scores/022.rb) [C++](/src/022. Names scores/022.cpp) |
 |23|[Non-abundant sums](https://projecteuler.net/problem=23)|[Ruby](/src/023. Non-abundant sums/023.rb) |
 |24|[Lexicographic permutations](https://projecteuler.net/problem=24)|[Ruby](/src/024. Lexicographic permutations/024.rb) [Python](/src/024. Lexicographic permutations/024.py) |
 |25|[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|[Java](/src/025. 1000-digit Fibonacci number/025.java) [Python](/src/025. 1000-digit Fibonacci number/025.py) [Ruby](/src/025. 1000-digit Fibonacci number/025.rb) |
