@@ -1,5 +1,7 @@
-factorial = {0 => 1}
-1.upto(100) {|n| factorial[n] = factorial[n - 1] * n}
+factorial = [1]
+1.upto(100) do |n| 
+  factorial[n] = factorial[n - 1] * n
+end
 
 count = 0
 1.upto(100) do |n|

@@ -46,7 +46,7 @@ My Project Euler Solutions
 |49|[Prime permutations](https://projecteuler.net/problem=49)|[Ruby](/src/049. Prime permutations/049.rb) |
 |50|[Consecutive prime sum](https://projecteuler.net/problem=50)|[Ruby](/src/050. Consecutive prime sum/050.rb) |
 |52|[Permuted multiples](https://projecteuler.net/problem=52)|[Python](/src/052. Permuted multiples/052.py) [Ruby](/src/052. Permuted multiples/052.rb) |
-|53|[Combinatoric selections](https://projecteuler.net/problem=53)|[Java](/src/053. Combinatoric selections/053.java) [Ruby](/src/053. Combinatoric selections/053.rb) |
+|53|[Combinatoric selections](https://projecteuler.net/problem=53)|[Java](/src/053. Combinatoric selections/053.java) [Ruby](/src/053. Combinatoric selections/053.rb) [Python](/src/053. Combinatoric selections/053.py) |
 |55|[Lychrel numbers](https://projecteuler.net/problem=55)|[Ruby](/src/055. Lychrel numbers/055.rb) [Python](/src/055. Lychrel numbers/055.py) |
 |56|[Powerful digit sum](https://projecteuler.net/problem=56)|[Ruby](/src/056. Powerful digit sum/056.rb) [Python](/src/056. Powerful digit sum/056.py) |
 |57|[Square root convergents](https://projecteuler.net/problem=57)|[Python](/src/057. Square root convergents/057.py) [Ruby](/src/057. Square root convergents/057.rb) |
