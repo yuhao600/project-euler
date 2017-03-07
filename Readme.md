@@ -29,7 +29,7 @@ My Project Euler Solutions
 |25|[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|[Java](/src/025. 1000-digit Fibonacci number/025.java) [Python](/src/025. 1000-digit Fibonacci number/025.py) [Ruby](/src/025. 1000-digit Fibonacci number/025.rb) |
 |26|[Reciprocal cycles](https://projecteuler.net/problem=26)|[Lua](/src/026. Reciprocal cycles/026.lua) [Ruby](/src/026. Reciprocal cycles/026.rb) |
 |27|[Quadratic primes](https://projecteuler.net/problem=27)|[Ruby](/src/027. Quadratic primes/027.rb) |
-|28|[Number spiral diagonals](https://projecteuler.net/problem=28)|[Lua](/src/028. Number spiral diagonals/028.lua) [C++](/src/028. Number spiral diagonals/028.cpp) |
+|28|[Number spiral diagonals](https://projecteuler.net/problem=28)|[Lua](/src/028. Number spiral diagonals/028.lua) [C++](/src/028. Number spiral diagonals/028.cpp) [C](/src/028. Number spiral diagonals/028.c) |
 |29|[Distinct powers](https://projecteuler.net/problem=29)|[Haskell](/src/029. Distinct powers/029.hs) [Java](/src/029. Distinct powers/029.java) [Python](/src/029. Distinct powers/029.py) [Ruby](/src/029. Distinct powers/029.rb) |
 |30|[Digit fifth powers](https://projecteuler.net/problem=30)|[Python](/src/030. Digit fifth powers/030.py) [Ruby](/src/030. Digit fifth powers/030.rb) |
 |33|[Digit cancelling fractions](https://projecteuler.net/problem=33)|[Python](/src/033. Digit cancelling fractions/033.py) [Ruby](/src/033. Digit cancelling fractions/033.rb) |
