@@ -50,7 +50,7 @@ File.open('../Readme.md', 'w') do |readme|
   problems.each do |p|
     link = ''
     p.languages.each do |lang|
-      directory = p.directory.gsub(' ', '\ ')
+      directory = p.directory.gsub(' ', '%20')
       case lang
         when :c       then link += "[C](/src/#{directory}/#{sprintf('%03d', p.index)}.c) "
         when :cpp     then link += "[C++](/src/#{directory}/#{sprintf('%03d', p.index)}.cpp) "
