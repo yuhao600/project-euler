@@ -43,9 +43,10 @@ problems.sort!
 File.open('../Readme.md', 'w') do |readme|
   readme.puts 'My Project Euler Solutions'
   readme.puts '========'
+  readme.puts
 
   readme.puts '|Index|Title|Solution|'
-  readme.puts '| ----- | -------- | -------- | ---------- |'
+  readme.puts '| ----- | -------- | -------- |'
   problems.each do |p|
     link = ''
     p.languages.each do |lang|
