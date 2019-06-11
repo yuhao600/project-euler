@@ -19,11 +19,12 @@ end
 source_extensions = {
   'c'    => :c,
   'cpp'  => :cpp,
+  'go'   => :go,
+  'hs'   => :haskell,
   'java' => :java,
   'lua'  => :lua,
   'py'   => :python,
   'rb'   => :ruby,
-  'hs'   => :haskell,
 }
 
 problems = []
@@ -54,6 +55,7 @@ File.open('../Readme.md', 'w') do |readme|
       case lang
         when :c       then link += "[C](/src/#{directory}/#{sprintf('%03d', p.index)}.c) "
         when :cpp     then link += "[C++](/src/#{directory}/#{sprintf('%03d', p.index)}.cpp) "
+        when :go      then link += "[Go](/src/#{directory}/#{sprintf('%03d', p.index)}.go) "
         when :haskell then link += "[Haskell](/src/#{directory}/#{sprintf('%03d', p.index)}.hs) "
         when :java    then link += "[Java](/src/#{directory}/#{sprintf('%03d', p.index)}.java) "
         when :lua     then link += "[Lua](/src/#{directory}/#{sprintf('%03d', p.index)}.lua) "

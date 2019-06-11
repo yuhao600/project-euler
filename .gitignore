@@ -222,3 +222,4 @@ pip-log.txt
 
 #custom
 a.out
+*.exe
