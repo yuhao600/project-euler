@@ -16,7 +16,7 @@ class Problem
   end
 end
 
-source_extensions = {
+lang_extensions = {
   'c'    => :c,
   'cpp'  => :cpp,
   'go'   => :go,
@@ -32,10 +32,12 @@ Dir.foreach('../src') do |d|
   if /(?<index>\d{3})\.\s*(?<title>\S.+)/ =~ d
     p = Problem.new(index.to_i, title, d)
     Dir.foreach("../src/#{d}") do |src|
-      if /\d{3}\.(?<lang>.+)/ =~ src
-        p.languages << source_extensions[lang]
+      if /\d{3}\.(?<extension>.+)/ =~ src
+        lang = lang_extensions[extension]
+        p.languages << lang if lang != nil
       end
     end
+    p.languages.sort!
     problems << p
   end
 end
