@@ -1,25 +1,23 @@
 --Sieve of Eratosthenes
-local t = {}
+local sieve = {}
 for i = 1, 200000 do
-  t[i] = true
+  sieve[i] = true
 end
-t[1] = false  -- 1 is not prime
+sieve[1] = false  -- 1 is not prime
 
 local factor = 2
-while factor <= math.sqrt(#t) do
-  for i = factor * 2, #t, factor do
-    if t[i] == true then
-      t[i] = false
-    end
+while factor <= math.sqrt(#sieve) do
+  for i = factor * 2, #sieve, factor do
+    sieve[i] = false
   end
   repeat
     factor = factor + 1
-  until t[factor] == true
+  until sieve[factor] == true
 end
 
 local count = 0
 for i = 1, 200000 do
-  if t[i] then
+  if sieve[i] then
     count = count + 1
   end
   if count == 10001 then
