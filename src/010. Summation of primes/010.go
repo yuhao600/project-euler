@@ -6,17 +6,15 @@ import (
 )
 
 func main() {
-	primes := genPrimes(200000)
-	count := 0
-	for i := 1; i < len(primes); i++ {
-		if primes[i] {
-			count++
-		}
-		if count == 10001 {
-			fmt.Println(i)
-			break
+	n := 2000000
+	primes := genPrimes(n)
+	sum := 0
+	for i := 1; i < n; i++ {
+		if (primes[i]) {
+			sum += i
 		}
 	}
+	fmt.Println(sum)
 }
 
 func genPrimes(n int) map[int]bool {
