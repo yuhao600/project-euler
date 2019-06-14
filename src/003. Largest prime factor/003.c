@@ -1,23 +1,26 @@
 #include <stdio.h>
 
-int main(void)
-{
-    unsigned long long num = 600851475143;
-    unsigned long long max = 2;
+long long max_prime_factor(long long num);
 
-    while (num % 2 == 0)
+int main(void) {  
+    printf("%lld\n", max_prime_factor(600851475143LL));
+    return 0;
+}
+
+long long max_prime_factor(long long num) {
+    // 2 is the only even prime number
+    while (num % 2 == 0) {
         num /= 2;
+    }
 
-    unsigned long long factor = 3;
-    while (num > 1)
-    {
-        while (num % factor == 0)
-        {
+    long long max = 2;
+    long long factor = 3;
+    while (num > 1) {
+        while (num % factor == 0) {
             num /= factor;
             max = factor;
         }
         factor += 2;
     }
-    printf("%llu\n", max);
-    return 0;
+    return max;
 }
