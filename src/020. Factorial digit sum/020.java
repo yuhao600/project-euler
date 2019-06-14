@@ -1,20 +1,16 @@
 import java.math.*;
 
-public class Main
-{
-    public static void main(String[] args)
-    {
-        BigInteger factor = BigInteger.ONE;
-        for (int i = 1; i <= 100; i++)
-        {
-            factor = factor.multiply(BigInteger.valueOf(i));
+public class Main {
+    public static void main(String[] args) {
+        BigInteger factorial = BigInteger.ONE;
+        for (int i = 1; i <= 100; i++) {
+            factorial = factorial.multiply(BigInteger.valueOf(i));
         }
-        BigInteger sumDigit = BigInteger.ZERO;
-        while (factor.compareTo(BigInteger.ZERO) > 0)
-        {
-            sumDigit = sumDigit.add(factor.mod(BigInteger.TEN));
-            factor = factor.divide(BigInteger.TEN);
+        BigInteger sumDigits = BigInteger.ZERO;
+        while (factorial.compareTo(BigInteger.ZERO) > 0){
+            sumDigits = sumDigits.add(factorial.mod(BigInteger.TEN));
+            factorial = factorial.divide(BigInteger.TEN);
         }
-        System.out.println(sumDigit);
+        System.out.println(sumDigits);
     }
 }

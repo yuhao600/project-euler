@@ -22,7 +22,7 @@ My Project Euler Solutions
 |17|[Number letter counts](https://projecteuler.net/problem=17)|[C](/src/017.%20Number%20letter%20counts/017.c) [C++](/src/017.%20Number%20letter%20counts/017.cpp) [Lua](/src/017.%20Number%20letter%20counts/017.lua) [Python](/src/017.%20Number%20letter%20counts/017.py) [Ruby](/src/017.%20Number%20letter%20counts/017.rb) |
 |18|[Maximum path sum I](https://projecteuler.net/problem=18)|[Lua](/src/018.%20Maximum%20path%20sum%20I/018.lua) |
 |19|[Counting Sundays](https://projecteuler.net/problem=19)|[Java](/src/019.%20Counting%20Sundays/019.java) [Ruby](/src/019.%20Counting%20Sundays/019.rb) |
-|20|[Factorial digit sum](https://projecteuler.net/problem=20)|[Haskell](/src/020.%20Factorial%20digit%20sum/020.hs) [Java](/src/020.%20Factorial%20digit%20sum/020.java) [Python](/src/020.%20Factorial%20digit%20sum/020.py) [Ruby](/src/020.%20Factorial%20digit%20sum/020.rb) |
+|20|[Factorial digit sum](https://projecteuler.net/problem=20)|[Go](/src/020.%20Factorial%20digit%20sum/020.go) [Haskell](/src/020.%20Factorial%20digit%20sum/020.hs) [Java](/src/020.%20Factorial%20digit%20sum/020.java) [Python](/src/020.%20Factorial%20digit%20sum/020.py) [Ruby](/src/020.%20Factorial%20digit%20sum/020.rb) |
 |21|[Amicable numbers](https://projecteuler.net/problem=21)|[Ruby](/src/021.%20Amicable%20numbers/021.rb) |
 |22|[Names scores](https://projecteuler.net/problem=22)|[C++](/src/022.%20Names%20scores/022.cpp) [Lua](/src/022.%20Names%20scores/022.lua) [Ruby](/src/022.%20Names%20scores/022.rb) |
 |23|[Non-abundant sums](https://projecteuler.net/problem=23)|[Ruby](/src/023.%20Non-abundant%20sums/023.rb) |
