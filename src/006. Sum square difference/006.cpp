@@ -1,10 +1,8 @@
 #include <iostream>
 
-int main()
-{
+int main(void) {
     int sum100pow = 0;
-    for (int i = 1; i <= 100; ++i)
-    {
+    for (int i = 1; i <= 100; ++i) {
         sum100pow += i * i;
     }
     int sum100 = 100 * (100 + 1) / 2;
