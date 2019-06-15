@@ -1,8 +1,10 @@
-sunday = Time.utc(1901, "Jan", 6, 12)
-first_of_month = 0
-while sunday < Time.utc(2000, "Dec", 31, 12)
-  sunday += 60 * 60 * 24 * 7
-  first_of_month += 1 if sunday.mday == 1
+require 'date'
+
+first_of_month = Date.new(1901, 1, 1)
+count = 0
+while first_of_month < Date.new(2000, 12, 31)
+  count += 1 if first_of_month.sunday?
+  first_of_month = first_of_month.next_month
 end
 
-puts first_of_month
+puts count
