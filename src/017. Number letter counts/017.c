@@ -3,8 +3,7 @@
 
 #define NUM_STR_LEN 256
 
-int main()
-{
+int main(void) {
     char n[1001][NUM_STR_LEN] = {""};
     //strcpy(n[0], "zero");
     strcpy(n[1], "one");
@@ -37,21 +36,17 @@ int main()
     strcpy(n[90], "ninety");
 
     // generate 21-99
-    for (int b = 2; b <= 9; ++b)
-    {
-        for (int a = 1; a <= 9; ++a)
-        {
+    for (int b = 2; b <= 9; ++b) {
+        for (int a = 1; a <= 9; ++a) {
             strcpy(n[b * 10 + a], n[b * 10]);
             strcat(n[b * 10 + a], n[a]);
         }
     }
 
-    for (int c = 1; c <= 9; ++c)
-    {
+    for (int c = 1; c <= 9; ++c) {
         strcpy(n[c * 100], n[c]);
         strcat(n[c * 100], "hundred");
-        for (int ba = 1; ba <= 99; ++ba)
-        {
+        for (int ba = 1; ba <= 99; ++ba) {
             strcpy(n[c * 100 + ba], n[c * 100]);
             strcat(n[c * 100 + ba], "and");
             strcat(n[c * 100 + ba], n[ba]);
@@ -62,8 +57,7 @@ int main()
     strcat(n[1000], "thousand");
 
     int sum = 0;
-    for (int i = 1; i <= 1000; ++i)
-    {
+    for (int i = 1; i <= 1000; ++i) {
         sum += strlen(n[i]);
     }
 

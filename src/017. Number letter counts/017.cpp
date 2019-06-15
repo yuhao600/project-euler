@@ -1,8 +1,7 @@
 #include <iostream>
 #include <vector>
 
-int main()
-{
+int main() {
     std::vector<std::string> n(1001);
     //n[0] = "zero";
     n[1] = "one";
@@ -35,19 +34,15 @@ int main()
     n[90] = "ninety";
 
     // generate 21-99
-    for (int b = 2; b <= 9; ++b)
-    {
-        for (int a = 1; a <= 9; ++a)
-        {
+    for (int b = 2; b <= 9; ++b) {
+        for (int a = 1; a <= 9; ++a) {
             n[b * 10 + a] = n[b * 10] + n[a];
         }
     }
 
-    for (int c = 1; c <= 9; ++c)
-    {
+    for (int c = 1; c <= 9; ++c) {
         n[c * 100] = n[c] + "hundred";
-        for (int ba = 1; ba <= 99; ++ba)
-        {
+        for (int ba = 1; ba <= 99; ++ba) {
             n[c * 100 + ba] = n[c * 100] + "and" + n[ba];
         }
     }
@@ -55,8 +50,7 @@ int main()
     n[1000] = n[1] + "thousand";
 
     int sum = 0;
-    for (std::string s : n)
-    {
+    for (std::string s : n) {
         sum += s.size();
     }
 
