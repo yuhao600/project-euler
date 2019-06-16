@@ -224,4 +224,5 @@ pip-log.txt
 a.out
 *.exe
 
-.vscode/launch.json
+#vs code
+.vscode/
