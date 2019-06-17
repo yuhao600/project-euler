@@ -10,9 +10,9 @@ func main() {
 	divisor.Exp(big.NewInt(10), big.NewInt(10), nil)
 
 	var sum10digit big.Int
-	for i := 1; i <= 1000; i++ {
+	for i := int64(1); i <= int64(1000); i++ {
 		var power big.Int
-		power.Exp(big.NewInt(int64(i)), big.NewInt(int64(i)), &divisor)
+		power.Exp(big.NewInt(i), big.NewInt(i), &divisor)
 		sum10digit.Add(&sum10digit, &power)
 		sum10digit.Mod(&sum10digit, &divisor)
 	}

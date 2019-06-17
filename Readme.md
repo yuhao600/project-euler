@@ -54,7 +54,7 @@ My Project Euler Solutions
 |58|[Spiral primes](https://projecteuler.net/problem=58)|[Ruby](/src/058.%20Spiral%20primes/058.rb) |
 |62|[Cubic permutations](https://projecteuler.net/problem=62)|[Ruby](/src/062.%20Cubic%20permutations/062.rb) |
 |69|[Totient maximum](https://projecteuler.net/problem=69)|[Ruby](/src/069.%20Totient%20maximum/069.rb) |
-|71|[Ordered fractions](https://projecteuler.net/problem=71)|[Python](/src/071.%20Ordered%20fractions/071.py) [Ruby](/src/071.%20Ordered%20fractions/071.rb) |
+|71|[Ordered fractions](https://projecteuler.net/problem=71)|[Go](/src/071.%20Ordered%20fractions/071.go) [Python](/src/071.%20Ordered%20fractions/071.py) [Ruby](/src/071.%20Ordered%20fractions/071.rb) |
 |73|[Counting fractions in a range](https://projecteuler.net/problem=73)|[Python](/src/073.%20Counting%20fractions%20in%20a%20range/073.py) [Ruby](/src/073.%20Counting%20fractions%20in%20a%20range/073.rb) |
 |74|[Digit factorial chains](https://projecteuler.net/problem=74)|[C++](/src/074.%20Digit%20factorial%20chains/074.cpp) [Python](/src/074.%20Digit%20factorial%20chains/074.py) [Ruby](/src/074.%20Digit%20factorial%20chains/074.rb) |
 |80|[Square root digital expansion](https://projecteuler.net/problem=80)|[Ruby](/src/080.%20Square%20root%20digital%20expansion/080.rb) |
