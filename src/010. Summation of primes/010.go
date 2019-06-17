@@ -17,9 +17,10 @@ func main() {
 	fmt.Println(sum)
 }
 
-func genPrimes(n int) map[int]bool {
+func genPrimes(n int) []bool {
 	// Sieve of Eratosthenes
-	sieve := make(map[int]bool)
+	sieve := make([]bool, n + 1)
+	sieve[0] = false // so that the index starts from 1
 	for i := 1; i < n; i++ {
 		if i % 2 == 0 {
 			sieve[i] = false
