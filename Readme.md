@@ -41,6 +41,7 @@ My Project Euler Solutions
 |39|[Integer right triangles](https://projecteuler.net/problem=39)|[Go](/src/039.%20Integer%20right%20triangles/039.go) |
 |40|[Champernowne's constant](https://projecteuler.net/problem=40)|[Haskell](/src/040.%20Champernowne's%20constant/040.hs) [Java](/src/040.%20Champernowne's%20constant/040.java) [Lua](/src/040.%20Champernowne's%20constant/040.lua) [Ruby](/src/040.%20Champernowne's%20constant/040.rb) |
 |41|[Pandigital prime](https://projecteuler.net/problem=41)|[Ruby](/src/041.%20Pandigital%20prime/041.rb) |
+|42|[Coded triangle numbers](https://projecteuler.net/problem=42)|[Ruby](/src/042.%20Coded%20triangle%20numbers/042.rb) |
 |43|[Sub-string divisibility](https://projecteuler.net/problem=43)|[Python](/src/043.%20Sub-string%20divisibility/043.py) [Ruby](/src/043.%20Sub-string%20divisibility/043.rb) |
 |45|[Triangular, pentagonal, and hexagonal](https://projecteuler.net/problem=45)|[Java](/src/045.%20Triangular,%20pentagonal,%20and%20hexagonal/045.java) [Lua](/src/045.%20Triangular,%20pentagonal,%20and%20hexagonal/045.lua) [Ruby](/src/045.%20Triangular,%20pentagonal,%20and%20hexagonal/045.rb) |
 |47|[Distinct primes factors](https://projecteuler.net/problem=47)|[Ruby](/src/047.%20Distinct%20primes%20factors/047.rb) |
