@@ -15,7 +15,7 @@ func main () {
 	}
 
 	sum := 0
-	for _, v := range(f) {
+	for _, v := range f {
 		if v % 2 == 0 {
 			sum += v
 		}

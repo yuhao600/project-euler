@@ -51,7 +51,7 @@ func main() {
     n[1000] = n[1] + "thousand"
 
     sum := 0
-    for _, s := range(n) {
+    for _, s := range n {
         sum += len(s)
     }
 
