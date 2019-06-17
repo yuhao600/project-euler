@@ -1,6 +1,6 @@
 require 'prime'
 
-class Fixnum
+class Integer
   def num_of_factors
     self.prime_division.map { |a| a[1] + 1 }.inject(:*)
   end

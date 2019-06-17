@@ -7,7 +7,7 @@ def sum_of_digit_factorials(num)
   num.to_s.chars.map(&:to_i).map { |d| $factorials[d] }.inject(:+)
 end
 
-class Fixnum
+class Integer
   def curious?
     self == sum_of_digit_factorials(self)
   end

@@ -1,4 +1,4 @@
-class Fixnum
+class Integer
   def palindrome_dec?
     decimal = self.to_s
     decimal == decimal.reverse

@@ -1,4 +1,4 @@
-class Fixnum
+class Integer
   def to_sorted
     self.to_s.chars.sort.join
   end

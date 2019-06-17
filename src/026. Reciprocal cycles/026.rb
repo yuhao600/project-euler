@@ -1,4 +1,4 @@
-class Fixnum
+class Integer
   def fracCycle
     num = self
     num /= 2 while num % 2 == 0

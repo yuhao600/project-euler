@@ -1,14 +1,14 @@
 require 'prime'
 
-Primes = {}
-Prime.each(100_000_000) { |p| Primes[p] = true}
+$primes = {}
+Prime.each(100_000_000) { |p| $primes[p] = true}
 
-class Fixnum
+class Integer
   def prime_generating?
     n = 1
     while n * n <= self
       if self % n == 0
-        if not Primes[n + self / n]
+        if not $primes[n + self / n]
           return false
         end
       end

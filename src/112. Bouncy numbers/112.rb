@@ -1,4 +1,4 @@
-class Fixnum
+class Integer
   def bouncy?
     if self.to_s.scan(/\d/).sort.join.to_i == self or self.to_s.scan(/\d/).sort.reverse.join.to_i == self
       false
