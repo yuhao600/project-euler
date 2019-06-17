@@ -27,7 +27,7 @@ My Project Euler Solutions
 |22|[Names scores](https://projecteuler.net/problem=22)|[C++](/src/022.%20Names%20scores/022.cpp) [Lua](/src/022.%20Names%20scores/022.lua) [Ruby](/src/022.%20Names%20scores/022.rb) |
 |23|[Non-abundant sums](https://projecteuler.net/problem=23)|[Ruby](/src/023.%20Non-abundant%20sums/023.rb) |
 |24|[Lexicographic permutations](https://projecteuler.net/problem=24)|[Python](/src/024.%20Lexicographic%20permutations/024.py) [Ruby](/src/024.%20Lexicographic%20permutations/024.rb) |
-|25|[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|[Java](/src/025.%201000-digit%20Fibonacci%20number/025.java) [Python](/src/025.%201000-digit%20Fibonacci%20number/025.py) [Ruby](/src/025.%201000-digit%20Fibonacci%20number/025.rb) |
+|25|[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|[Go](/src/025.%201000-digit%20Fibonacci%20number/025.go) [Java](/src/025.%201000-digit%20Fibonacci%20number/025.java) [Python](/src/025.%201000-digit%20Fibonacci%20number/025.py) [Ruby](/src/025.%201000-digit%20Fibonacci%20number/025.rb) |
 |26|[Reciprocal cycles](https://projecteuler.net/problem=26)|[Lua](/src/026.%20Reciprocal%20cycles/026.lua) [Ruby](/src/026.%20Reciprocal%20cycles/026.rb) |
 |27|[Quadratic primes](https://projecteuler.net/problem=27)|[Ruby](/src/027.%20Quadratic%20primes/027.rb) |
 |28|[Number spiral diagonals](https://projecteuler.net/problem=28)|[C](/src/028.%20Number%20spiral%20diagonals/028.c) [C++](/src/028.%20Number%20spiral%20diagonals/028.cpp) [Lua](/src/028.%20Number%20spiral%20diagonals/028.lua) |
