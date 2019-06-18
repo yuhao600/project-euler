@@ -54,7 +54,7 @@ My Project Euler Solutions
 |56|[Powerful digit sum](https://projecteuler.net/problem=56)|[Python](/src/056.%20Powerful%20digit%20sum/056.py) [Ruby](/src/056.%20Powerful%20digit%20sum/056.rb) |
 |57|[Square root convergents](https://projecteuler.net/problem=57)|[Python](/src/057.%20Square%20root%20convergents/057.py) [Ruby](/src/057.%20Square%20root%20convergents/057.rb) |
 |58|[Spiral primes](https://projecteuler.net/problem=58)|[Ruby](/src/058.%20Spiral%20primes/058.rb) |
-|62|[Cubic permutations](https://projecteuler.net/problem=62)|[Ruby](/src/062.%20Cubic%20permutations/062.rb) |
+|62|[Cubic permutations](https://projecteuler.net/problem=62)|[Java](/src/062.%20Cubic%20permutations/062.java) [Ruby](/src/062.%20Cubic%20permutations/062.rb) |
 |69|[Totient maximum](https://projecteuler.net/problem=69)|[Ruby](/src/069.%20Totient%20maximum/069.rb) |
 |71|[Ordered fractions](https://projecteuler.net/problem=71)|[Go](/src/071.%20Ordered%20fractions/071.go) [Python](/src/071.%20Ordered%20fractions/071.py) [Ruby](/src/071.%20Ordered%20fractions/071.rb) |
 |72|[Counting fractions](https://projecteuler.net/problem=72)|[Ruby](/src/072.%20Counting%20fractions/072.rb) |
