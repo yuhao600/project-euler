@@ -1,17 +1,13 @@
 #include <stdio.h>
-#include <math.h>
 
 int numOfFactors(long long num);
 
-int main()
-{
+int main() {
     long long triangle = 0;
     int i = 1;
-    while (1)
-    {
+    while (1) {
         triangle += i;
-        if (numOfFactors(triangle) > 500)
-        {
+        if (numOfFactors(triangle) > 500) {
             printf("%lld\n", triangle);
             break;
         }
@@ -19,24 +15,18 @@ int main()
     }
 }
 
-int numOfFactors(long long num)
-{
+int numOfFactors(long long num) {
     int count = 0;
     long factor = 1;
-    while (factor <= sqrt((double)num))
-    {
-        if (num % factor == 0)
-        {
+    while (factor * factor < num) {
+        if (num % factor == 0) {
             count += 1;
         }
         factor += 1;
     }
-    if (factor * factor > num)
-    {
+    if (factor * factor > num) {
         return count * 2;
-    }
-    else
-    {
+    } else {
         return count * 2 + 1;
     }
 }

@@ -1,17 +1,13 @@
 #include <iostream>
-#include <cmath>
 
 int numOfFactors(long long num);
 
-int main()
-{
+int main() {
     long long triangle = 0;
     int i = 1;
-    while (true)
-    {
+    while (true) {
         triangle += i;
-        if (numOfFactors(triangle) > 500)
-        {
+        if (numOfFactors(triangle) > 500) {
             std::cout << triangle << std::endl;
             break;
         }
@@ -19,24 +15,19 @@ int main()
     }
 }
 
-int numOfFactors(long long num)
-{
+int numOfFactors(long long num) {
     int count = 0;
     long factor = 1;
-    while (factor <= std::sqrt(static_cast<double>(num)))
-    {
-        if (num % factor == 0)
-        {
+    while (factor * factor < num) {
+        if (num % factor == 0) {
             count += 1;
         }
         factor += 1;
     }
-    if (factor * factor > num)
-    {
+    if (factor * factor > num) {
         return count * 2;
-    }
-    else
-    {
+    } else {
+        // perfect square
         return count * 2 + 1;
     }
 }

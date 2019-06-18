@@ -1,7 +1,7 @@
 function num_of_factors(num)
   local n = 0
   local factor = 1
-  while factor < math.sqrt(num) do
+  while factor * factor < num do
     if num % factor == 0 then
       n = n + 1
     end
@@ -10,6 +10,7 @@ function num_of_factors(num)
   if factor * factor > num then
     return n * 2
   else
+    -- perfect square
     return n * 2 + 1
   end
 end
