@@ -20,7 +20,7 @@ My Project Euler Solutions
 |15|[Lattice paths](https://projecteuler.net/problem=15)|[Lua](/src/015.%20Lattice%20paths/015.lua) [Ruby](/src/015.%20Lattice%20paths/015.rb) |
 |16|[Power digit sum](https://projecteuler.net/problem=16)|[Go](/src/016.%20Power%20digit%20sum/016.go) [Haskell](/src/016.%20Power%20digit%20sum/016.hs) [Java](/src/016.%20Power%20digit%20sum/016.java) [Python](/src/016.%20Power%20digit%20sum/016.py) [Ruby](/src/016.%20Power%20digit%20sum/016.rb) |
 |17|[Number letter counts](https://projecteuler.net/problem=17)|[C](/src/017.%20Number%20letter%20counts/017.c) [C++](/src/017.%20Number%20letter%20counts/017.cpp) [Go](/src/017.%20Number%20letter%20counts/017.go) [Java](/src/017.%20Number%20letter%20counts/017.java) [Lua](/src/017.%20Number%20letter%20counts/017.lua) [Python](/src/017.%20Number%20letter%20counts/017.py) [Ruby](/src/017.%20Number%20letter%20counts/017.rb) |
-|18|[Maximum path sum I](https://projecteuler.net/problem=18)|[Lua](/src/018.%20Maximum%20path%20sum%20I/018.lua) |
+|18|[Maximum path sum I](https://projecteuler.net/problem=18)|[Ruby](/src/018.%20Maximum%20path%20sum%20I/018.rb) |
 |19|[Counting Sundays](https://projecteuler.net/problem=19)|[Go](/src/019.%20Counting%20Sundays/019.go) [Java](/src/019.%20Counting%20Sundays/019.java) [Ruby](/src/019.%20Counting%20Sundays/019.rb) |
 |20|[Factorial digit sum](https://projecteuler.net/problem=20)|[Go](/src/020.%20Factorial%20digit%20sum/020.go) [Haskell](/src/020.%20Factorial%20digit%20sum/020.hs) [Java](/src/020.%20Factorial%20digit%20sum/020.java) [Python](/src/020.%20Factorial%20digit%20sum/020.py) [Ruby](/src/020.%20Factorial%20digit%20sum/020.rb) |
 |21|[Amicable numbers](https://projecteuler.net/problem=21)|[Ruby](/src/021.%20Amicable%20numbers/021.rb) |
@@ -55,12 +55,14 @@ My Project Euler Solutions
 |57|[Square root convergents](https://projecteuler.net/problem=57)|[Python](/src/057.%20Square%20root%20convergents/057.py) [Ruby](/src/057.%20Square%20root%20convergents/057.rb) |
 |58|[Spiral primes](https://projecteuler.net/problem=58)|[Ruby](/src/058.%20Spiral%20primes/058.rb) |
 |62|[Cubic permutations](https://projecteuler.net/problem=62)|[Java](/src/062.%20Cubic%20permutations/062.java) [Ruby](/src/062.%20Cubic%20permutations/062.rb) |
+|67|[Maximum path sum II](https://projecteuler.net/problem=67)|[Ruby](/src/067.%20Maximum%20path%20sum%20II/067.rb) |
 |69|[Totient maximum](https://projecteuler.net/problem=69)|[Ruby](/src/069.%20Totient%20maximum/069.rb) |
 |71|[Ordered fractions](https://projecteuler.net/problem=71)|[Go](/src/071.%20Ordered%20fractions/071.go) [Python](/src/071.%20Ordered%20fractions/071.py) [Ruby](/src/071.%20Ordered%20fractions/071.rb) |
 |72|[Counting fractions](https://projecteuler.net/problem=72)|[Ruby](/src/072.%20Counting%20fractions/072.rb) |
 |73|[Counting fractions in a range](https://projecteuler.net/problem=73)|[Python](/src/073.%20Counting%20fractions%20in%20a%20range/073.py) [Ruby](/src/073.%20Counting%20fractions%20in%20a%20range/073.rb) |
 |74|[Digit factorial chains](https://projecteuler.net/problem=74)|[C++](/src/074.%20Digit%20factorial%20chains/074.cpp) [Python](/src/074.%20Digit%20factorial%20chains/074.py) [Ruby](/src/074.%20Digit%20factorial%20chains/074.rb) |
 |80|[Square root digital expansion](https://projecteuler.net/problem=80)|[Ruby](/src/080.%20Square%20root%20digital%20expansion/080.rb) |
+|81|[Path sum: two ways](https://projecteuler.net/problem=81)|[Ruby](/src/081.%20Path%20sum:%20two%20ways/081.rb) |
 |85|[Counting rectangles](https://projecteuler.net/problem=85)|[Go](/src/085.%20Counting%20rectangles/085.go) [Ruby](/src/085.%20Counting%20rectangles/085.rb) |
 |87|[Prime power triples](https://projecteuler.net/problem=87)|[Ruby](/src/087.%20Prime%20power%20triples/087.rb) |
 |92|[Square digit chains](https://projecteuler.net/problem=92)|[C++](/src/092.%20Square%20digit%20chains/092.cpp) [Lua](/src/092.%20Square%20digit%20chains/092.lua) |
