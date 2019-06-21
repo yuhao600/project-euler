@@ -65,10 +65,11 @@ My Project Euler Solutions
 |81|[Path sum two ways](https://projecteuler.net/problem=81)|[Ruby](/src/081.%20Path%20sum%20two%20ways/081.rb) |
 |85|[Counting rectangles](https://projecteuler.net/problem=85)|[Go](/src/085.%20Counting%20rectangles/085.go) [Ruby](/src/085.%20Counting%20rectangles/085.rb) |
 |87|[Prime power triples](https://projecteuler.net/problem=87)|[Ruby](/src/087.%20Prime%20power%20triples/087.rb) |
-|92|[Square digit chains](https://projecteuler.net/problem=92)|[C++](/src/092.%20Square%20digit%20chains/092.cpp) [Lua](/src/092.%20Square%20digit%20chains/092.lua) |
+|92|[Square digit chains](https://projecteuler.net/problem=92)|[C++](/src/092.%20Square%20digit%20chains/092.cpp) [Go](/src/092.%20Square%20digit%20chains/092.go) [Java](/src/092.%20Square%20digit%20chains/092.java) [Lua](/src/092.%20Square%20digit%20chains/092.lua) |
 |97|[Large non-Mersenne prime](https://projecteuler.net/problem=97)|[Go](/src/097.%20Large%20non-Mersenne%20prime/097.go) [Haskell](/src/097.%20Large%20non-Mersenne%20prime/097.hs) [Java](/src/097.%20Large%20non-Mersenne%20prime/097.java) [Python](/src/097.%20Large%20non-Mersenne%20prime/097.py) [Ruby](/src/097.%20Large%20non-Mersenne%20prime/097.rb) |
 |99|[Largest exponential](https://projecteuler.net/problem=99)|[C](/src/099.%20Largest%20exponential/099.c) [C++](/src/099.%20Largest%20exponential/099.cpp) [Lua](/src/099.%20Largest%20exponential/099.lua) [Python](/src/099.%20Largest%20exponential/099.py) [Ruby](/src/099.%20Largest%20exponential/099.rb) |
 |112|[Bouncy numbers](https://projecteuler.net/problem=112)|[C++](/src/112.%20Bouncy%20numbers/112.cpp) [Java](/src/112.%20Bouncy%20numbers/112.java) [Ruby](/src/112.%20Bouncy%20numbers/112.rb) |
+|119|[Digit power sum](https://projecteuler.net/problem=119)||
 |120|[Square remainders](https://projecteuler.net/problem=120)|[Go](/src/120.%20Square%20remainders/120.go) [Python](/src/120.%20Square%20remainders/120.py) [Ruby](/src/120.%20Square%20remainders/120.rb) |
 |206|[Concealed Square](https://projecteuler.net/problem=206)|[Python](/src/206.%20Concealed%20Square/206.py) [Ruby](/src/206.%20Concealed%20Square/206.rb) |
 |357|[Prime generating integers](https://projecteuler.net/problem=357)|[Ruby](/src/357.%20Prime%20generating%20integers/357.rb) |
