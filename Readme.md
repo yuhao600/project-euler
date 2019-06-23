@@ -70,7 +70,7 @@ My Project Euler Solutions
 |99|[Largest exponential](https://projecteuler.net/problem=99)|[C](/src/099.%20Largest%20exponential/099.c) [C++](/src/099.%20Largest%20exponential/099.cpp) [Lua](/src/099.%20Largest%20exponential/099.lua) [Python](/src/099.%20Largest%20exponential/099.py) [Ruby](/src/099.%20Largest%20exponential/099.rb) |
 |112|[Bouncy numbers](https://projecteuler.net/problem=112)|[C++](/src/112.%20Bouncy%20numbers/112.cpp) [Java](/src/112.%20Bouncy%20numbers/112.java) [Ruby](/src/112.%20Bouncy%20numbers/112.rb) |
 |119|[Digit power sum](https://projecteuler.net/problem=119)|[Python](/src/119.%20Digit%20power%20sum/119.py) [Ruby](/src/119.%20Digit%20power%20sum/119.rb) |
-|120|[Square remainders](https://projecteuler.net/problem=120)|[Go](/src/120.%20Square%20remainders/120.go) [Python](/src/120.%20Square%20remainders/120.py) [Ruby](/src/120.%20Square%20remainders/120.rb) |
+|120|[Square remainders](https://projecteuler.net/problem=120)|[Go](/src/120.%20Square%20remainders/120.go) [Java](/src/120.%20Square%20remainders/120.java) [Python](/src/120.%20Square%20remainders/120.py) [Ruby](/src/120.%20Square%20remainders/120.rb) |
 |206|[Concealed Square](https://projecteuler.net/problem=206)|[Python](/src/206.%20Concealed%20Square/206.py) [Ruby](/src/206.%20Concealed%20Square/206.rb) |
 |357|[Prime generating integers](https://projecteuler.net/problem=357)|[Ruby](/src/357.%20Prime%20generating%20integers/357.rb) |
 |387|[Harshad Numbers](https://projecteuler.net/problem=387)|[Ruby](/src/387.%20Harshad%20Numbers/387.rb) |
