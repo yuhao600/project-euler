@@ -1,26 +1,21 @@
 require 'prime'
 
-$primes = {}
-Prime.each(100_000_000) { |p| $primes[p] = true}
+upper_limit = 100_000_000
+primes = Array.new(upper_limit + 1, false)
+Prime.each(upper_limit) {|p| primes[p] = true}
 
-class Integer
-  def prime_generating?
-    n = 1
-    while n * n <= self
-      if self % n == 0
-        if not $primes[n + self / n]
-          return false
-        end
-      end
-      n += 1
+prime_gens = Array.new(upper_limit + 1, true)
+1.upto(upper_limit) do |d|
+  d.upto(upper_limit / d) do |k|
+    break if d + k > upper_limit
+    if prime_gens[d * k] and not primes[d + k]
+      prime_gens[d * k] = false
     end
-    true
   end
 end
 
-result = []
-1.upto(100_000_000) do |num|
-  result << num if num.prime_generating?
+sum = 0
+prime_gens.each_with_index do |n, i|
+  sum += i if n
 end
-
-puts result.inject(:+)
+puts sum

@@ -15,7 +15,7 @@ func main() {
 	}
 
 	for d := 1; d <= upper_limit; d++ {
-		for k := 1; k <= upper_limit / d; k++ {
+		for k := d; k <= upper_limit / d; k++ {
 			if k + d > upper_limit {
 				break
 			}
