@@ -51,6 +51,7 @@ File.open('../Readme.md', 'w') do |readme|
   readme.puts '|Index|Title|Solution|'
   readme.puts '| ----- | -------- | -------- |'
   problems.each do |p|
+    next if p.languages.empty?
     link = ''
     p.languages.each do |lang|
       directory = p.directory.gsub(' ', '%20')
