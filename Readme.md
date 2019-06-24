@@ -62,6 +62,7 @@ My Project Euler Solutions
 |72|[Counting fractions](https://projecteuler.net/problem=72)|[Ruby](/src/072.%20Counting%20fractions/072.rb) |
 |73|[Counting fractions in a range](https://projecteuler.net/problem=73)|[Python](/src/073.%20Counting%20fractions%20in%20a%20range/073.py) [Ruby](/src/073.%20Counting%20fractions%20in%20a%20range/073.rb) |
 |74|[Digit factorial chains](https://projecteuler.net/problem=74)|[C++](/src/074.%20Digit%20factorial%20chains/074.cpp) [Python](/src/074.%20Digit%20factorial%20chains/074.py) [Ruby](/src/074.%20Digit%20factorial%20chains/074.rb) |
+|75|[Singular integer right triangles](https://projecteuler.net/problem=75)||
 |80|[Square root digital expansion](https://projecteuler.net/problem=80)|[Ruby](/src/080.%20Square%20root%20digital%20expansion/080.rb) |
 |81|[Path sum two ways](https://projecteuler.net/problem=81)|[Ruby](/src/081.%20Path%20sum%20two%20ways/081.rb) |
 |85|[Counting rectangles](https://projecteuler.net/problem=85)|[Go](/src/085.%20Counting%20rectangles/085.go) [Ruby](/src/085.%20Counting%20rectangles/085.rb) |
@@ -70,7 +71,7 @@ My Project Euler Solutions
 |97|[Large non-Mersenne prime](https://projecteuler.net/problem=97)|[Go](/src/097.%20Large%20non-Mersenne%20prime/097.go) [Haskell](/src/097.%20Large%20non-Mersenne%20prime/097.hs) [Java](/src/097.%20Large%20non-Mersenne%20prime/097.java) [Python](/src/097.%20Large%20non-Mersenne%20prime/097.py) [Ruby](/src/097.%20Large%20non-Mersenne%20prime/097.rb) |
 |99|[Largest exponential](https://projecteuler.net/problem=99)|[C](/src/099.%20Largest%20exponential/099.c) [C++](/src/099.%20Largest%20exponential/099.cpp) [Lua](/src/099.%20Largest%20exponential/099.lua) [Python](/src/099.%20Largest%20exponential/099.py) [Ruby](/src/099.%20Largest%20exponential/099.rb) |
 |104|[Pandigital Fibonacci ends](https://projecteuler.net/problem=104)|[Python](/src/104.%20Pandigital%20Fibonacci%20ends/104.py) [Ruby](/src/104.%20Pandigital%20Fibonacci%20ends/104.rb) |
-|112|[Bouncy numbers](https://projecteuler.net/problem=112)|[C++](/src/112.%20Bouncy%20numbers/112.cpp) [Java](/src/112.%20Bouncy%20numbers/112.java) [Ruby](/src/112.%20Bouncy%20numbers/112.rb) |
+|112|[Bouncy numbers](https://projecteuler.net/problem=112)|[C++](/src/112.%20Bouncy%20numbers/112.cpp) [Go](/src/112.%20Bouncy%20numbers/112.go) [Java](/src/112.%20Bouncy%20numbers/112.java) [Ruby](/src/112.%20Bouncy%20numbers/112.rb) |
 |119|[Digit power sum](https://projecteuler.net/problem=119)|[Python](/src/119.%20Digit%20power%20sum/119.py) [Ruby](/src/119.%20Digit%20power%20sum/119.rb) |
 |120|[Square remainders](https://projecteuler.net/problem=120)|[Go](/src/120.%20Square%20remainders/120.go) [Java](/src/120.%20Square%20remainders/120.java) [Python](/src/120.%20Square%20remainders/120.py) [Ruby](/src/120.%20Square%20remainders/120.rb) |
 |206|[Concealed Square](https://projecteuler.net/problem=206)|[Java](/src/206.%20Concealed%20Square/206.java) [Lua](/src/206.%20Concealed%20Square/206.lua) [Python](/src/206.%20Concealed%20Square/206.py) [Ruby](/src/206.%20Concealed%20Square/206.rb) |

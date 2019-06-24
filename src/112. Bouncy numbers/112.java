@@ -2,13 +2,13 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        long bouncy_count = 0;
+        long bouncyCount = 0;
         long n = 1;
         while (true) {
             if (isBouncy(n)) {
-                bouncy_count++;
+                bouncyCount++;
             }
-            if ((double) bouncy_count / n == 0.99) {
+            if ((double) bouncyCount / n == 0.99) {
                 System.out.println(n);
                 break;
             }
