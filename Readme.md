@@ -35,7 +35,7 @@ My Project Euler Solutions
 |30|[Digit fifth powers](https://projecteuler.net/problem=30)|[Go](/src/030.%20Digit%20fifth%20powers/030.go) [Python](/src/030.%20Digit%20fifth%20powers/030.py) [Ruby](/src/030.%20Digit%20fifth%20powers/030.rb) |
 |32|[Pandigital products](https://projecteuler.net/problem=32)|[Ruby](/src/032.%20Pandigital%20products/032.rb) |
 |33|[Digit cancelling fractions](https://projecteuler.net/problem=33)|[Python](/src/033.%20Digit%20cancelling%20fractions/033.py) [Ruby](/src/033.%20Digit%20cancelling%20fractions/033.rb) |
-|34|[Digit factorials](https://projecteuler.net/problem=34)|[C](/src/034.%20Digit%20factorials/034.c) [C++](/src/034.%20Digit%20factorials/034.cpp) [Lua](/src/034.%20Digit%20factorials/034.lua) [Python](/src/034.%20Digit%20factorials/034.py) [Ruby](/src/034.%20Digit%20factorials/034.rb) |
+|34|[Digit factorials](https://projecteuler.net/problem=34)|[C](/src/034.%20Digit%20factorials/034.c) [C++](/src/034.%20Digit%20factorials/034.cpp) [Go](/src/034.%20Digit%20factorials/034.go) [Lua](/src/034.%20Digit%20factorials/034.lua) [Python](/src/034.%20Digit%20factorials/034.py) [Ruby](/src/034.%20Digit%20factorials/034.rb) |
 |35|[Circular primes](https://projecteuler.net/problem=35)|[Ruby](/src/035.%20Circular%20primes/035.rb) |
 |36|[Double-base palindromes](https://projecteuler.net/problem=36)|[Lua](/src/036.%20Double-base%20palindromes/036.lua) [Ruby](/src/036.%20Double-base%20palindromes/036.rb) |
 |37|[Truncatable primes](https://projecteuler.net/problem=37)|[Ruby](/src/037.%20Truncatable%20primes/037.rb) |
