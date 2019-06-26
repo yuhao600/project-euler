@@ -6,22 +6,22 @@
 using std::set;
 using std::vector;
 
-set<long long> gen_hamming(long long upper_limit, int hamming_type);
-    set<long long> gen_primes(long long n);
+set<long long> gen_hammings(long long upper_limit, int hamming_type);
+set<long long> gen_primes(long long n);
 
 int main() {
     const long long upper_limit = 1000000000LL;
-    set<long long> hammings = gen_hamming(upper_limit, 100);
+    set<long long> hammings = gen_hammings(upper_limit, 100);
     std::cout << hammings.size() << std::endl;
     return 0;
 }
 
-set<long long> gen_hamming(long long upper_limit, int hamming_type) {
+set<long long> gen_hammings(long long upper_limit, int hamming_type) {
     set<long long> primes = gen_primes(hamming_type);
     set<long long> hammings{1};
-    for (long long p : primes) {
+    for (auto p : primes) {
         set<long long> temp(hammings);
-        for (long long h : hammings) {
+        for (auto h : hammings) {
             while (h * p <= upper_limit) {
                 temp.insert(h * p);
                 h *= p;
