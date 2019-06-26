@@ -1,13 +1,10 @@
-public class Main
-{
-    public static void main(String[] args)
-    {
+public class Main {
+    public static void main(String[] args) {
         StringBuilder sb = new StringBuilder();
         
         int n = 1;
         sb.append('0'); //so that index starts from 1
-        while (sb.length() <= 1000000)
-        {
+        while (sb.length() <= 1000000) {
             sb.append(Integer.toString(n));
             n++;
         }
