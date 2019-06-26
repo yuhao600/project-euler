@@ -5,10 +5,10 @@ import (
 	"math"
 )
 
-const upper_limit = 100000000
-var primes = genPrimes(100000000)
-
 func main() {
+	const upper_limit = 100000000
+	primes := genPrimes(upper_limit)
+
 	primeGens := make([]bool, upper_limit + 1)
 	for i := range primeGens {
 		primeGens[i] = true
