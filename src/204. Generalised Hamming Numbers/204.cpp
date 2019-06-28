@@ -58,7 +58,7 @@ set<long long> gen_primes(long long n) {
     }
 
     set<long long> primes;
-    for (long long i = 0; i <= sieve.size(); ++i) {
+    for (long long i = 0; i < sieve.size(); ++i) {
         if (sieve[i]) {
             primes.insert(i);
         }
