@@ -76,6 +76,7 @@ My Project Euler Solutions
 |120|[Square remainders](https://projecteuler.net/problem=120)|[Go](/src/120.%20Square%20remainders/120.go) [Java](/src/120.%20Square%20remainders/120.java) [Python](/src/120.%20Square%20remainders/120.py) [Ruby](/src/120.%20Square%20remainders/120.rb) |
 |125|[Palindromic sums](https://projecteuler.net/problem=125)|[Python](/src/125.%20Palindromic%20sums/125.py) [Ruby](/src/125.%20Palindromic%20sums/125.rb) |
 |187|[Semiprimes](https://projecteuler.net/problem=187)|[Ruby](/src/187.%20Semiprimes/187.rb) |
+|188|[The hyperexponentiation of a number](https://projecteuler.net/problem=188)|[Go](/src/188.%20The%20hyperexponentiation%20of%20a%20number/188.go) |
 |204|[Generalised Hamming Numbers](https://projecteuler.net/problem=204)|[C++](/src/204.%20Generalised%20Hamming%20Numbers/204.cpp) [Java](/src/204.%20Generalised%20Hamming%20Numbers/204.java) |
 |206|[Concealed Square](https://projecteuler.net/problem=206)|[Java](/src/206.%20Concealed%20Square/206.java) [Lua](/src/206.%20Concealed%20Square/206.lua) [Python](/src/206.%20Concealed%20Square/206.py) [Ruby](/src/206.%20Concealed%20Square/206.rb) |
 |357|[Prime generating integers](https://projecteuler.net/problem=357)|[C++](/src/357.%20Prime%20generating%20integers/357.cpp) [Go](/src/357.%20Prime%20generating%20integers/357.go) [Ruby](/src/357.%20Prime%20generating%20integers/357.rb) |
