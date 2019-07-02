@@ -75,6 +75,7 @@ My Project Euler Solutions
 |119|[Digit power sum](https://projecteuler.net/problem=119)|[Python](/src/119.%20Digit%20power%20sum/119.py) [Ruby](/src/119.%20Digit%20power%20sum/119.rb) |
 |120|[Square remainders](https://projecteuler.net/problem=120)|[Go](/src/120.%20Square%20remainders/120.go) [Java](/src/120.%20Square%20remainders/120.java) [Python](/src/120.%20Square%20remainders/120.py) [Ruby](/src/120.%20Square%20remainders/120.rb) |
 |125|[Palindromic sums](https://projecteuler.net/problem=125)|[Python](/src/125.%20Palindromic%20sums/125.py) [Ruby](/src/125.%20Palindromic%20sums/125.rb) |
+|146|[Investigating a Prime Pattern](https://projecteuler.net/problem=146)|[Ruby](/src/146.%20Investigating%20a%20Prime%20Pattern/146.rb) |
 |187|[Semiprimes](https://projecteuler.net/problem=187)|[Ruby](/src/187.%20Semiprimes/187.rb) |
 |188|[The hyperexponentiation of a number](https://projecteuler.net/problem=188)|[Go](/src/188.%20The%20hyperexponentiation%20of%20a%20number/188.go) |
 |204|[Generalised Hamming Numbers](https://projecteuler.net/problem=204)|[C++](/src/204.%20Generalised%20Hamming%20Numbers/204.cpp) [Java](/src/204.%20Generalised%20Hamming%20Numbers/204.java) |
