@@ -1,3 +1,4 @@
+-- https://en.wikipedia.org/wiki/Nim#Mathematical_theory
 function nim_win(n)
   return n ~ n * 2 ~ n * 3 == 0
 end
