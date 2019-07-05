@@ -6,8 +6,8 @@ def digit_sum(n):
     return digits
 
 max = 0
-for a in range(1, 101):
-    for b in range(1, 101):
+for a in range(1, 100):
+    for b in range(1, 100):
         exp = a ** b
         if digit_sum(exp) > max:
             max = digit_sum(exp)

@@ -52,7 +52,7 @@ My Project Euler Solutions
 |52|[Permuted multiples](https://projecteuler.net/problem=52)|[Haskell](/src/052.%20Permuted%20multiples/052.hs) [Python](/src/052.%20Permuted%20multiples/052.py) [Ruby](/src/052.%20Permuted%20multiples/052.rb) |
 |53|[Combinatoric selections](https://projecteuler.net/problem=53)|[Go](/src/053.%20Combinatoric%20selections/053.go) [Java](/src/053.%20Combinatoric%20selections/053.java) [Python](/src/053.%20Combinatoric%20selections/053.py) [Ruby](/src/053.%20Combinatoric%20selections/053.rb) |
 |55|[Lychrel numbers](https://projecteuler.net/problem=55)|[Python](/src/055.%20Lychrel%20numbers/055.py) [Ruby](/src/055.%20Lychrel%20numbers/055.rb) |
-|56|[Powerful digit sum](https://projecteuler.net/problem=56)|[Java](/src/056.%20Powerful%20digit%20sum/056.java) [Python](/src/056.%20Powerful%20digit%20sum/056.py) [Ruby](/src/056.%20Powerful%20digit%20sum/056.rb) |
+|56|[Powerful digit sum](https://projecteuler.net/problem=56)|[Haskell](/src/056.%20Powerful%20digit%20sum/056.hs) [Java](/src/056.%20Powerful%20digit%20sum/056.java) [Python](/src/056.%20Powerful%20digit%20sum/056.py) [Ruby](/src/056.%20Powerful%20digit%20sum/056.rb) |
 |57|[Square root convergents](https://projecteuler.net/problem=57)|[Python](/src/057.%20Square%20root%20convergents/057.py) [Ruby](/src/057.%20Square%20root%20convergents/057.rb) |
 |58|[Spiral primes](https://projecteuler.net/problem=58)|[Ruby](/src/058.%20Spiral%20primes/058.rb) |
 |62|[Cubic permutations](https://projecteuler.net/problem=62)|[Java](/src/062.%20Cubic%20permutations/062.java) [Ruby](/src/062.%20Cubic%20permutations/062.rb) |

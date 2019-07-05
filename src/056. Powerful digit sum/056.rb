@@ -11,8 +11,8 @@ class Integer
 end
 
 max = 0
-1.upto(100) do |a|
-  1.upto(100) do |b|
+1.upto(99) do |a|
+  1.upto(99) do |b|
     exp = a ** b
     if exp.digit_sum > max
       max = exp.digit_sum
