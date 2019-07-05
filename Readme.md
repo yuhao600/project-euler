@@ -31,7 +31,7 @@ My Project Euler Solutions
 |26|[Reciprocal cycles](https://projecteuler.net/problem=26)|[Lua](/src/026.%20Reciprocal%20cycles/026.lua) [Ruby](/src/026.%20Reciprocal%20cycles/026.rb) |
 |27|[Quadratic primes](https://projecteuler.net/problem=27)|[Ruby](/src/027.%20Quadratic%20primes/027.rb) |
 |28|[Number spiral diagonals](https://projecteuler.net/problem=28)|[C](/src/028.%20Number%20spiral%20diagonals/028.c) [C++](/src/028.%20Number%20spiral%20diagonals/028.cpp) [Lua](/src/028.%20Number%20spiral%20diagonals/028.lua) |
-|29|[Distinct powers](https://projecteuler.net/problem=29)|[Haskell](/src/029.%20Distinct%20powers/029.hs) [Java](/src/029.%20Distinct%20powers/029.java) [Python](/src/029.%20Distinct%20powers/029.py) [Ruby](/src/029.%20Distinct%20powers/029.rb) |
+|29|[Distinct powers](https://projecteuler.net/problem=29)|[Go](/src/029.%20Distinct%20powers/029.go) [Haskell](/src/029.%20Distinct%20powers/029.hs) [Java](/src/029.%20Distinct%20powers/029.java) [Python](/src/029.%20Distinct%20powers/029.py) [Ruby](/src/029.%20Distinct%20powers/029.rb) |
 |30|[Digit fifth powers](https://projecteuler.net/problem=30)|[Go](/src/030.%20Digit%20fifth%20powers/030.go) [Python](/src/030.%20Digit%20fifth%20powers/030.py) [Ruby](/src/030.%20Digit%20fifth%20powers/030.rb) |
 |32|[Pandigital products](https://projecteuler.net/problem=32)|[Ruby](/src/032.%20Pandigital%20products/032.rb) |
 |33|[Digit cancelling fractions](https://projecteuler.net/problem=33)|[Python](/src/033.%20Digit%20cancelling%20fractions/033.py) [Ruby](/src/033.%20Digit%20cancelling%20fractions/033.rb) |
