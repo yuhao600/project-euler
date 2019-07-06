@@ -40,6 +40,7 @@ My Project Euler Solutions
 |35|[Circular primes](https://projecteuler.net/problem=35)|[Ruby](/src/035.%20Circular%20primes/035.rb) |
 |36|[Double-base palindromes](https://projecteuler.net/problem=36)|[Lua](/src/036.%20Double-base%20palindromes/036.lua) [Ruby](/src/036.%20Double-base%20palindromes/036.rb) |
 |37|[Truncatable primes](https://projecteuler.net/problem=37)|[Ruby](/src/037.%20Truncatable%20primes/037.rb) |
+|38|[Pandigital multiples](https://projecteuler.net/problem=38)|[Ruby](/src/038.%20Pandigital%20multiples/038.rb) |
 |39|[Integer right triangles](https://projecteuler.net/problem=39)|[Go](/src/039.%20Integer%20right%20triangles/039.go) |
 |40|[Champernowne's constant](https://projecteuler.net/problem=40)|[Haskell](/src/040.%20Champernowne's%20constant/040.hs) [Java](/src/040.%20Champernowne's%20constant/040.java) [Lua](/src/040.%20Champernowne's%20constant/040.lua) [Ruby](/src/040.%20Champernowne's%20constant/040.rb) |
 |41|[Pandigital prime](https://projecteuler.net/problem=41)|[Ruby](/src/041.%20Pandigital%20prime/041.rb) |
