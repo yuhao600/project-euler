@@ -3,6 +3,7 @@ class Integer
     decimal = self.to_s
     decimal == decimal.reverse
   end
+
   def palindrome_bin?
     binary = self.to_s(2)
     binary == binary.reverse
