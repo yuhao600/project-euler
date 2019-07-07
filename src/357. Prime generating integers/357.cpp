@@ -4,7 +4,7 @@
 
 using std::vector;
 
-vector<bool> gen_primes(long long n);
+static vector<bool> gen_primes(long long n);
 
 int main() {
     const long long upper_limit = 100000000LL;
@@ -32,7 +32,7 @@ int main() {
     return 0;
 }
 
-vector<bool> gen_primes(long long n) {
+static vector<bool> gen_primes(long long n) {
     // Sieve of Eratosthenes
     vector<bool> sieve(n + 1);
     sieve[0] = false; // so that the index starts from 1
@@ -45,9 +45,9 @@ vector<bool> gen_primes(long long n) {
     }
 
     sieve[1] = false; // 1 is not prime
-	sieve[2] = true; // 2 is the only even prime
+    sieve[2] = true; // 2 is the only even prime
 	
-	long long factor = 3;
+    long long factor = 3;
     while (factor <= int(std::sqrt(n))) {
         for (long long i = factor * factor; i < n; i += factor) {
             sieve[i] = false;

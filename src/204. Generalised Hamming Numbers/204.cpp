@@ -6,8 +6,8 @@
 using std::set;
 using std::vector;
 
-set<long long> gen_hammings(long long upper_limit, int hamming_type);
-set<long long> gen_primes(long long n);
+static set<long long> gen_hammings(long long upper_limit, int hamming_type);
+static set<long long> gen_primes(long long n);
 
 int main() {
     const long long upper_limit = 1000000000LL;
@@ -16,7 +16,7 @@ int main() {
     return 0;
 }
 
-set<long long> gen_hammings(long long upper_limit, int hamming_type) {
+static set<long long> gen_hammings(long long upper_limit, int hamming_type) {
     set<long long> primes = gen_primes(hamming_type);
     set<long long> hammings{1};
     for (auto p : primes) {
@@ -32,7 +32,7 @@ set<long long> gen_hammings(long long upper_limit, int hamming_type) {
     return hammings;
 }
 
-set<long long> gen_primes(long long n) {
+static set<long long> gen_primes(long long n) {
     // Sieve of Eratosthenes
     vector<bool> sieve(n + 1);
     sieve[0] = false; // so that the index starts from 1
@@ -45,9 +45,9 @@ set<long long> gen_primes(long long n) {
     }
 
     sieve[1] = false; // 1 is not prime
-	sieve[2] = true; // 2 is the only even prime
+    sieve[2] = true; // 2 is the only even prime
 	
-	long long factor = 3;
+    long long factor = 3;
     while (factor <= int(std::sqrt(n))) {
         for (long long i = factor * factor; i < n; i += factor) {
             sieve[i] = false;
