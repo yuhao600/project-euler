@@ -67,6 +67,7 @@ My Project Euler Solutions
 |72|[Counting fractions](https://projecteuler.net/problem=72)|[Ruby](/src/072.%20Counting%20fractions/072.rb) |
 |73|[Counting fractions in a range](https://projecteuler.net/problem=73)|[Python](/src/073.%20Counting%20fractions%20in%20a%20range/073.py) [Ruby](/src/073.%20Counting%20fractions%20in%20a%20range/073.rb) |
 |74|[Digit factorial chains](https://projecteuler.net/problem=74)|[C++](/src/074.%20Digit%20factorial%20chains/074.cpp) [Python](/src/074.%20Digit%20factorial%20chains/074.py) [Ruby](/src/074.%20Digit%20factorial%20chains/074.rb) |
+|76|[Counting summations](https://projecteuler.net/problem=76)|[Ruby](/src/076.%20Counting%20summations/076.rb) |
 |80|[Square root digital expansion](https://projecteuler.net/problem=80)|[Ruby](/src/080.%20Square%20root%20digital%20expansion/080.rb) |
 |81|[Path sum two ways](https://projecteuler.net/problem=81)|[Ruby](/src/081.%20Path%20sum%20two%20ways/081.rb) |
 |85|[Counting rectangles](https://projecteuler.net/problem=85)|[Go](/src/085.%20Counting%20rectangles/085.go) [Ruby](/src/085.%20Counting%20rectangles/085.rb) |
