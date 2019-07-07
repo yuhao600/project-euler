@@ -60,6 +60,7 @@ My Project Euler Solutions
 |57|[Square root convergents](https://projecteuler.net/problem=57)|[Python](/src/057.%20Square%20root%20convergents/057.py) [Ruby](/src/057.%20Square%20root%20convergents/057.rb) |
 |58|[Spiral primes](https://projecteuler.net/problem=58)|[Ruby](/src/058.%20Spiral%20primes/058.rb) |
 |62|[Cubic permutations](https://projecteuler.net/problem=62)|[Java](/src/062.%20Cubic%20permutations/062.java) [Ruby](/src/062.%20Cubic%20permutations/062.rb) |
+|65|[Convergents of e](https://projecteuler.net/problem=65)|[Ruby](/src/065.%20Convergents%20of%20e/065.rb) |
 |67|[Maximum path sum II](https://projecteuler.net/problem=67)|[Ruby](/src/067.%20Maximum%20path%20sum%20II/067.rb) |
 |69|[Totient maximum](https://projecteuler.net/problem=69)|[Ruby](/src/069.%20Totient%20maximum/069.rb) |
 |71|[Ordered fractions](https://projecteuler.net/problem=71)|[Go](/src/071.%20Ordered%20fractions/071.go) [Python](/src/071.%20Ordered%20fractions/071.py) [Ruby](/src/071.%20Ordered%20fractions/071.rb) |
