@@ -33,7 +33,7 @@ My Project Euler Solutions
 |28|[Number spiral diagonals](https://projecteuler.net/problem=28)|[C](/src/028.%20Number%20spiral%20diagonals/028.c) [C++](/src/028.%20Number%20spiral%20diagonals/028.cpp) [Lua](/src/028.%20Number%20spiral%20diagonals/028.lua) |
 |29|[Distinct powers](https://projecteuler.net/problem=29)|[Go](/src/029.%20Distinct%20powers/029.go) [Haskell](/src/029.%20Distinct%20powers/029.hs) [Java](/src/029.%20Distinct%20powers/029.java) [Python](/src/029.%20Distinct%20powers/029.py) [Ruby](/src/029.%20Distinct%20powers/029.rb) |
 |30|[Digit fifth powers](https://projecteuler.net/problem=30)|[Go](/src/030.%20Digit%20fifth%20powers/030.go) [Python](/src/030.%20Digit%20fifth%20powers/030.py) [Ruby](/src/030.%20Digit%20fifth%20powers/030.rb) |
-|31|[Coin sums](https://projecteuler.net/problem=31)|[Python](/src/031.%20Coin%20sums/031.py) [Ruby](/src/031.%20Coin%20sums/031.rb) |
+|31|[Coin sums](https://projecteuler.net/problem=31)|[Go](/src/031.%20Coin%20sums/031.go) [Python](/src/031.%20Coin%20sums/031.py) [Ruby](/src/031.%20Coin%20sums/031.rb) |
 |32|[Pandigital products](https://projecteuler.net/problem=32)|[Ruby](/src/032.%20Pandigital%20products/032.rb) |
 |33|[Digit cancelling fractions](https://projecteuler.net/problem=33)|[Python](/src/033.%20Digit%20cancelling%20fractions/033.py) [Ruby](/src/033.%20Digit%20cancelling%20fractions/033.rb) |
 |34|[Digit factorials](https://projecteuler.net/problem=34)|[C](/src/034.%20Digit%20factorials/034.c) [C++](/src/034.%20Digit%20factorials/034.cpp) [Go](/src/034.%20Digit%20factorials/034.go) [Lua](/src/034.%20Digit%20factorials/034.lua) [Python](/src/034.%20Digit%20factorials/034.py) [Ruby](/src/034.%20Digit%20factorials/034.rb) |
@@ -67,7 +67,7 @@ My Project Euler Solutions
 |72|[Counting fractions](https://projecteuler.net/problem=72)|[Ruby](/src/072.%20Counting%20fractions/072.rb) |
 |73|[Counting fractions in a range](https://projecteuler.net/problem=73)|[Python](/src/073.%20Counting%20fractions%20in%20a%20range/073.py) [Ruby](/src/073.%20Counting%20fractions%20in%20a%20range/073.rb) |
 |74|[Digit factorial chains](https://projecteuler.net/problem=74)|[C++](/src/074.%20Digit%20factorial%20chains/074.cpp) [Python](/src/074.%20Digit%20factorial%20chains/074.py) [Ruby](/src/074.%20Digit%20factorial%20chains/074.rb) |
-|76|[Counting summations](https://projecteuler.net/problem=76)|[Python](/src/076.%20Counting%20summations/076.py) [Ruby](/src/076.%20Counting%20summations/076.rb) |
+|76|[Counting summations](https://projecteuler.net/problem=76)|[Go](/src/076.%20Counting%20summations/076.go) [Python](/src/076.%20Counting%20summations/076.py) [Ruby](/src/076.%20Counting%20summations/076.rb) |
 |77|[Prime summations](https://projecteuler.net/problem=77)|[Ruby](/src/077.%20Prime%20summations/077.rb) |
 |80|[Square root digital expansion](https://projecteuler.net/problem=80)|[Ruby](/src/080.%20Square%20root%20digital%20expansion/080.rb) |
 |81|[Path sum two ways](https://projecteuler.net/problem=81)|[Ruby](/src/081.%20Path%20sum%20two%20ways/081.rb) |
