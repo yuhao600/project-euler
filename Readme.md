@@ -83,6 +83,7 @@ My Project Euler Solutions
 |112|[Bouncy numbers](https://projecteuler.net/problem=112)|[C++](/src/112.%20Bouncy%20numbers/112.cpp) [Go](/src/112.%20Bouncy%20numbers/112.go) [Java](/src/112.%20Bouncy%20numbers/112.java) [Ruby](/src/112.%20Bouncy%20numbers/112.rb) |
 |119|[Digit power sum](https://projecteuler.net/problem=119)|[Python](/src/119.%20Digit%20power%20sum/119.py) [Ruby](/src/119.%20Digit%20power%20sum/119.rb) |
 |120|[Square remainders](https://projecteuler.net/problem=120)|[Go](/src/120.%20Square%20remainders/120.go) [Java](/src/120.%20Square%20remainders/120.java) [Python](/src/120.%20Square%20remainders/120.py) [Ruby](/src/120.%20Square%20remainders/120.rb) |
+|123|[Prime square remainders](https://projecteuler.net/problem=123)|[Ruby](/src/123.%20Prime%20square%20remainders/123.rb) |
 |125|[Palindromic sums](https://projecteuler.net/problem=125)|[Python](/src/125.%20Palindromic%20sums/125.py) [Ruby](/src/125.%20Palindromic%20sums/125.rb) |
 |146|[Investigating a Prime Pattern](https://projecteuler.net/problem=146)|[Ruby](/src/146.%20Investigating%20a%20Prime%20Pattern/146.rb) |
 |179|[Consecutive positive divisors](https://projecteuler.net/problem=179)|[C++](/src/179.%20Consecutive%20positive%20divisors/179.cpp) |

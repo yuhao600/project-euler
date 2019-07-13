@@ -9,7 +9,7 @@ public class Main {
     }
 
     // From the Binomial Theorem
-    // (((a − 1)^n + (a + 1)^n)) % a^2
+    // (((a - 1)^n + (a + 1)^n)) % a^2
     // = (na(-1)^(n - 1) + (-1)^n) % a^2
     // = 2na % a^2 when n is odd
     // = 2   % a^2 when n is even
