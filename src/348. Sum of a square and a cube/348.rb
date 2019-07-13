@@ -8,7 +8,7 @@ end
 upper_limit = 10 ** 9
 
 squares = []
-2.upto(Math.sqrt(upper_limit).floor) do |a|
+2.upto(Math.sqrt(upper_limit)) do |a|
   squares << a * a
 end
 
