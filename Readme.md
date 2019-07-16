@@ -81,7 +81,7 @@ My Project Euler Solutions
 |99|[Largest exponential](https://projecteuler.net/problem=99)|[C](/src/099.%20Largest%20exponential/099.c) [C++](/src/099.%20Largest%20exponential/099.cpp) [Lua](/src/099.%20Largest%20exponential/099.lua) [Python](/src/099.%20Largest%20exponential/099.py) [Ruby](/src/099.%20Largest%20exponential/099.rb) |
 |104|[Pandigital Fibonacci ends](https://projecteuler.net/problem=104)|[Python](/src/104.%20Pandigital%20Fibonacci%20ends/104.py) [Ruby](/src/104.%20Pandigital%20Fibonacci%20ends/104.rb) |
 |112|[Bouncy numbers](https://projecteuler.net/problem=112)|[C++](/src/112.%20Bouncy%20numbers/112.cpp) [Go](/src/112.%20Bouncy%20numbers/112.go) [Java](/src/112.%20Bouncy%20numbers/112.java) [Ruby](/src/112.%20Bouncy%20numbers/112.rb) |
-|113|[Non-bouncy numbers](https://projecteuler.net/problem=113)|[Ruby](/src/113.%20Non-bouncy%20numbers/113.rb) |
+|113|[Non-bouncy numbers](https://projecteuler.net/problem=113)|[Python](/src/113.%20Non-bouncy%20numbers/113.py) [Ruby](/src/113.%20Non-bouncy%20numbers/113.rb) |
 |119|[Digit power sum](https://projecteuler.net/problem=119)|[Python](/src/119.%20Digit%20power%20sum/119.py) [Ruby](/src/119.%20Digit%20power%20sum/119.rb) |
 |120|[Square remainders](https://projecteuler.net/problem=120)|[Go](/src/120.%20Square%20remainders/120.go) [Java](/src/120.%20Square%20remainders/120.java) [Python](/src/120.%20Square%20remainders/120.py) [Ruby](/src/120.%20Square%20remainders/120.rb) |
 |123|[Prime square remainders](https://projecteuler.net/problem=123)|[Ruby](/src/123.%20Prime%20square%20remainders/123.rb) |
