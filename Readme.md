@@ -91,7 +91,7 @@ My Project Euler Solutions
 |187|[Semiprimes](https://projecteuler.net/problem=187)|[Ruby](/src/187.%20Semiprimes/187.rb) |
 |188|[The hyperexponentiation of a number](https://projecteuler.net/problem=188)|[Go](/src/188.%20The%20hyperexponentiation%20of%20a%20number/188.go) [Java](/src/188.%20The%20hyperexponentiation%20of%20a%20number/188.java) |
 |204|[Generalised Hamming Numbers](https://projecteuler.net/problem=204)|[C++](/src/204.%20Generalised%20Hamming%20Numbers/204.cpp) [Java](/src/204.%20Generalised%20Hamming%20Numbers/204.java) |
-|205|[Dice Game](https://projecteuler.net/problem=205)|[Ruby](/src/205.%20Dice%20Game/205.rb) |
+|205|[Dice Game](https://projecteuler.net/problem=205)|[Go](/src/205.%20Dice%20Game/205.go) [Python](/src/205.%20Dice%20Game/205.py) [Ruby](/src/205.%20Dice%20Game/205.rb) |
 |206|[Concealed Square](https://projecteuler.net/problem=206)|[Java](/src/206.%20Concealed%20Square/206.java) [Lua](/src/206.%20Concealed%20Square/206.lua) [Python](/src/206.%20Concealed%20Square/206.py) [Ruby](/src/206.%20Concealed%20Square/206.rb) |
 |301|[Nim](https://projecteuler.net/problem=301)|[C](/src/301.%20Nim/301.c) [C++](/src/301.%20Nim/301.cpp) [Go](/src/301.%20Nim/301.go) [Lua](/src/301.%20Nim/301.lua) |
 |348|[Sum of a square and a cube](https://projecteuler.net/problem=348)|[Python](/src/348.%20Sum%20of%20a%20square%20and%20a%20cube/348.py) [Ruby](/src/348.%20Sum%20of%20a%20square%20and%20a%20cube/348.rb) |
