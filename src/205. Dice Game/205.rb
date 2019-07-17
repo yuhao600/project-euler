@@ -1,12 +1,3 @@
-$factorials = [0]
-1.upto(6) do |n|
-  $factorials[n] = $factorials[n - 1] * n
-end
-
-def choose(n, k)
-  $factorials[n] / $factorials[k] / $factorials[n - k]
-end
-
 def roll(dices, times)
   counter = {}
   dices.each do |d|
