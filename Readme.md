@@ -60,7 +60,7 @@ My Project Euler Solutions
 |56|[Powerful digit sum](https://projecteuler.net/problem=56)|[Haskell](/src/056.%20Powerful%20digit%20sum/056.hs) [Java](/src/056.%20Powerful%20digit%20sum/056.java) [Python](/src/056.%20Powerful%20digit%20sum/056.py) [Ruby](/src/056.%20Powerful%20digit%20sum/056.rb) |
 |57|[Square root convergents](https://projecteuler.net/problem=57)|[Python](/src/057.%20Square%20root%20convergents/057.py) [Ruby](/src/057.%20Square%20root%20convergents/057.rb) |
 |58|[Spiral primes](https://projecteuler.net/problem=58)|[Ruby](/src/058.%20Spiral%20primes/058.rb) |
-|59|[XOR decryption](https://projecteuler.net/problem=59)|[Ruby](/src/059.%20XOR%20decryption/059.rb) |
+|59|[XOR decryption](https://projecteuler.net/problem=59)|[Lua](/src/059.%20XOR%20decryption/059.lua) [Ruby](/src/059.%20XOR%20decryption/059.rb) |
 |62|[Cubic permutations](https://projecteuler.net/problem=62)|[Java](/src/062.%20Cubic%20permutations/062.java) [Ruby](/src/062.%20Cubic%20permutations/062.rb) |
 |65|[Convergents of e](https://projecteuler.net/problem=65)|[Python](/src/065.%20Convergents%20of%20e/065.py) [Ruby](/src/065.%20Convergents%20of%20e/065.rb) |
 |67|[Maximum path sum II](https://projecteuler.net/problem=67)|[Python](/src/067.%20Maximum%20path%20sum%20II/067.py) [Ruby](/src/067.%20Maximum%20path%20sum%20II/067.rb) |
