@@ -42,7 +42,7 @@ My Project Euler Solutions
 |37|[Truncatable primes](https://projecteuler.net/problem=37)|[Ruby](/src/037.%20Truncatable%20primes/037.rb) |
 |38|[Pandigital multiples](https://projecteuler.net/problem=38)|[Ruby](/src/038.%20Pandigital%20multiples/038.rb) |
 |39|[Integer right triangles](https://projecteuler.net/problem=39)|[Go](/src/039.%20Integer%20right%20triangles/039.go) |
-|40|[Champernowne's constant](https://projecteuler.net/problem=40)|[C++](/src/040.%20Champernowne's%20constant/040.cpp) [Haskell](/src/040.%20Champernowne's%20constant/040.hs) [Java](/src/040.%20Champernowne's%20constant/040.java) [Lua](/src/040.%20Champernowne's%20constant/040.lua) [Python](/src/040.%20Champernowne's%20constant/040.py) [Ruby](/src/040.%20Champernowne's%20constant/040.rb) |
+|40|[Champernowne's constant](https://projecteuler.net/problem=40)|[C++](/src/040.%20Champernowne's%20constant/040.cpp) [Go](/src/040.%20Champernowne's%20constant/040.go) [Haskell](/src/040.%20Champernowne's%20constant/040.hs) [Java](/src/040.%20Champernowne's%20constant/040.java) [Lua](/src/040.%20Champernowne's%20constant/040.lua) [Python](/src/040.%20Champernowne's%20constant/040.py) [Ruby](/src/040.%20Champernowne's%20constant/040.rb) |
 |41|[Pandigital prime](https://projecteuler.net/problem=41)|[Ruby](/src/041.%20Pandigital%20prime/041.rb) |
 |42|[Coded triangle numbers](https://projecteuler.net/problem=42)|[Ruby](/src/042.%20Coded%20triangle%20numbers/042.rb) |
 |43|[Sub-string divisibility](https://projecteuler.net/problem=43)|[Python](/src/043.%20Sub-string%20divisibility/043.py) [Ruby](/src/043.%20Sub-string%20divisibility/043.rb) |
