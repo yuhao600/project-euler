@@ -53,6 +53,7 @@ My Project Euler Solutions
 |48|[Self powers](https://projecteuler.net/problem=48)|[Go](/src/048.%20Self%20powers/048.go) [Haskell](/src/048.%20Self%20powers/048.hs) [Java](/src/048.%20Self%20powers/048.java) [Python](/src/048.%20Self%20powers/048.py) [Ruby](/src/048.%20Self%20powers/048.rb) |
 |49|[Prime permutations](https://projecteuler.net/problem=49)|[Ruby](/src/049.%20Prime%20permutations/049.rb) |
 |50|[Consecutive prime sum](https://projecteuler.net/problem=50)|[Ruby](/src/050.%20Consecutive%20prime%20sum/050.rb) |
+|51|[Prime digit replacements](https://projecteuler.net/problem=51)|[Ruby](/src/051.%20Prime%20digit%20replacements/051.rb) |
 |52|[Permuted multiples](https://projecteuler.net/problem=52)|[Haskell](/src/052.%20Permuted%20multiples/052.hs) [Python](/src/052.%20Permuted%20multiples/052.py) [Ruby](/src/052.%20Permuted%20multiples/052.rb) |
 |53|[Combinatoric selections](https://projecteuler.net/problem=53)|[Go](/src/053.%20Combinatoric%20selections/053.go) [Java](/src/053.%20Combinatoric%20selections/053.java) [Python](/src/053.%20Combinatoric%20selections/053.py) [Ruby](/src/053.%20Combinatoric%20selections/053.rb) |
 |54|[Poker hands](https://projecteuler.net/problem=54)|[Ruby](/src/054.%20Poker%20hands/054.rb) |
