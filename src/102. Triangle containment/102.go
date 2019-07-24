@@ -55,7 +55,7 @@ func readTrianglesFromFile(fileName string) []Triangle {
 
 	scanner := bufio.NewScanner(f)
 	var triangles []Triangle
-    for scanner.Scan() {
+	for scanner.Scan() {
 		coordinates := strings.Split(scanner.Text(), ",")
 		var tri Triangle
 		tri.A = buildPoint(coordinates[0:2])
