@@ -99,6 +99,7 @@ My Project Euler Solutions
 |205|[Dice Game](https://projecteuler.net/problem=205)|[Go](/src/205.%20Dice%20Game/205.go) [Python](/src/205.%20Dice%20Game/205.py) [Ruby](/src/205.%20Dice%20Game/205.rb) |
 |206|[Concealed Square](https://projecteuler.net/problem=206)|[Go](/src/206.%20Concealed%20Square/206.go) [Java](/src/206.%20Concealed%20Square/206.java) [Lua](/src/206.%20Concealed%20Square/206.lua) [Python](/src/206.%20Concealed%20Square/206.py) [Ruby](/src/206.%20Concealed%20Square/206.rb) |
 |301|[Nim](https://projecteuler.net/problem=301)|[C](/src/301.%20Nim/301.c) [C++](/src/301.%20Nim/301.cpp) [Go](/src/301.%20Nim/301.go) [Lua](/src/301.%20Nim/301.lua) |
+|346|[Strong Repunits](https://projecteuler.net/problem=346)|[Ruby](/src/346.%20Strong%20Repunits/346.rb) |
 |348|[Sum of a square and a cube](https://projecteuler.net/problem=348)|[Python](/src/348.%20Sum%20of%20a%20square%20and%20a%20cube/348.py) [Ruby](/src/348.%20Sum%20of%20a%20square%20and%20a%20cube/348.rb) |
 |357|[Prime generating integers](https://projecteuler.net/problem=357)|[C++](/src/357.%20Prime%20generating%20integers/357.cpp) [Go](/src/357.%20Prime%20generating%20integers/357.go) [Ruby](/src/357.%20Prime%20generating%20integers/357.rb) |
 |387|[Harshad Numbers](https://projecteuler.net/problem=387)|[Ruby](/src/387.%20Harshad%20Numbers/387.rb) |
