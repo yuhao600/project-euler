@@ -7,13 +7,13 @@ function reversible_count(d)
   -- 4 digits: outer pair is the same as 2 digits
   --           inner pair has 30 possibilities because 0 is allowed
   if d % 4 == 0 or d % 4 == 2 then
-    return 20 * math.pow(30, d / 2 - 1)
+    return 20 * 30 ^ (d / 2 - 1)
   end
   -- the first and third digit must be odd and gives carry over: 20 possiblilities
   -- middle digit: add to itself, no carry over: 5 possibilities
   -- 4 digits: same as before, no leading zero		
   if d % 4 == 3 then
-    return 100 * math.pow(500, (d - 3) / 4)
+    return 100 * 500 ^ ((d - 3) / 4)
   end
 end
 
