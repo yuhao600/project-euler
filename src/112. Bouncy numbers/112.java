@@ -1,12 +1,13 @@
 import java.util.Arrays;
 
 public class Main {
+
     public static void main(String[] args) {
         long bouncyCount = 0;
         long n = 1;
         while (true) {
             if (isBouncy(n)) {
-                bouncyCount++;
+                ++bouncyCount;
             }
             if ((double) bouncyCount / n == 0.99) {
                 System.out.println(n);
@@ -18,16 +19,25 @@ public class Main {
 
     private static boolean isBouncy(long n) {
         String original = Long.toString(n);
-        char[] chars = original.toCharArray();
-        Arrays.sort(chars);
-        String sorted = new String(chars);
+        String sorted = sortString(original);
         if (original.equals(sorted)) {
             return false;
         }
-        String reversed = new StringBuilder(sorted).reverse().toString();
-        if (original.equals(reversed)) {
+        sorted = reverseString(sorted);
+        if (original.equals(sorted)) {
             return false;
         }
         return true;
     }
+
+    private static String sortString(String original) {
+        char[] chars = original.toCharArray();
+        Arrays.sort(chars);
+        return new String(chars);
+    }
+
+    private static String reverseString(String original) {
+        return new StringBuilder(original).reverse().toString();
+    }
+
 }
