@@ -4,9 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        long upper_limit = 10000;
+        long upperLimit = 10_000;
         TreeSet<Long> pentagons = new TreeSet<>();
-        for (long i = 1; i <= upper_limit; i++) {
+        for (long i = 1; i <= upperLimit; i++) {
             pentagons.add(i * (3 * i - 1) / 2);
         }
         for (long m : pentagons) {
@@ -20,5 +20,4 @@ public class Main {
             }
         }
     }
-
 }
