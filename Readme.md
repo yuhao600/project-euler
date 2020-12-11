@@ -38,7 +38,7 @@ My Project Euler Solutions
 |33|[Digit cancelling fractions](https://projecteuler.net/problem=33)|[Python](/src/033.%20Digit%20cancelling%20fractions/033.py) [Ruby](/src/033.%20Digit%20cancelling%20fractions/033.rb) |
 |34|[Digit factorials](https://projecteuler.net/problem=34)|[C](/src/034.%20Digit%20factorials/034.c) [C++](/src/034.%20Digit%20factorials/034.cpp) [Go](/src/034.%20Digit%20factorials/034.go) [Lua](/src/034.%20Digit%20factorials/034.lua) [Python](/src/034.%20Digit%20factorials/034.py) [Ruby](/src/034.%20Digit%20factorials/034.rb) |
 |35|[Circular primes](https://projecteuler.net/problem=35)|[Ruby](/src/035.%20Circular%20primes/035.rb) |
-|36|[Double-base palindromes](https://projecteuler.net/problem=36)|[Go](/src/036.%20Double-base%20palindromes/036.go) [Lua](/src/036.%20Double-base%20palindromes/036.lua) [Ruby](/src/036.%20Double-base%20palindromes/036.rb) |
+|36|[Double-base palindromes](https://projecteuler.net/problem=36)|[Go](/src/036.%20Double-base%20palindromes/036.go) [Java](/src/036.%20Double-base%20palindromes/036.java) [Lua](/src/036.%20Double-base%20palindromes/036.lua) [Ruby](/src/036.%20Double-base%20palindromes/036.rb) |
 |37|[Truncatable primes](https://projecteuler.net/problem=37)|[Ruby](/src/037.%20Truncatable%20primes/037.rb) |
 |38|[Pandigital multiples](https://projecteuler.net/problem=38)|[Ruby](/src/038.%20Pandigital%20multiples/038.rb) |
 |39|[Integer right triangles](https://projecteuler.net/problem=39)|[Go](/src/039.%20Integer%20right%20triangles/039.go) |
