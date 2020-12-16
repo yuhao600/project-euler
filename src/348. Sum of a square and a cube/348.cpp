@@ -25,7 +25,7 @@ int main() {
 
     set<long long> cubes;
     for (long long b = 2; b * b * b < upper_limit; ++b) {
-        cubes.insert(b *  b * b);
+        cubes.insert(b * b * b);
     }
 
     map<long long, int> candidates;
