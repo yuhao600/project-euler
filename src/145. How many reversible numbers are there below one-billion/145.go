@@ -27,7 +27,7 @@ func reversible_count(d int) int {
 		//           inner pair has 30 possibilities because 0 is allowed
 		return 20 * int(math.Pow(30 , float64(d / 2 - 1)))
 	case 3:
-		// the first and third digit must be odd and gives carry over: 20 possiblilities
+		// the first and third digit must be odd and gives carry over: 20 possibilities
 		// middle digit: add to itself, no carry over: 5 possibilities
 		// 4 digits: same as before, no leading zero
 		return 100 * int(math.Pow(500, float64(d - 3) / 4))

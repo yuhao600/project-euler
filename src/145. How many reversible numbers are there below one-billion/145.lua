@@ -9,7 +9,7 @@ function reversible_count(d)
   if d % 4 == 0 or d % 4 == 2 then
     return 20 * 30 ^ (d / 2 - 1)
   end
-  -- the first and third digit must be odd and gives carry over: 20 possiblilities
+  -- the first and third digit must be odd and gives carry over: 20 possibilities
   -- middle digit: add to itself, no carry over: 5 possibilities
   -- 4 digits: same as before, no leading zero		
   if d % 4 == 3 then
