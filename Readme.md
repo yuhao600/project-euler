@@ -95,7 +95,7 @@ My Project Euler Solutions
 |146|[Investigating a Prime Pattern](https://projecteuler.net/problem=146)|[Java](/src/146.%20Investigating%20a%20Prime%20Pattern/146.java) [Ruby](/src/146.%20Investigating%20a%20Prime%20Pattern/146.rb) |
 |179|[Consecutive positive divisors](https://projecteuler.net/problem=179)|[C++](/src/179.%20Consecutive%20positive%20divisors/179.cpp) |
 |187|[Semiprimes](https://projecteuler.net/problem=187)|[C++](/src/187.%20Semiprimes/187.cpp) [Ruby](/src/187.%20Semiprimes/187.rb) |
-|188|[The hyperexponentiation of a number](https://projecteuler.net/problem=188)|[Go](/src/188.%20The%20hyperexponentiation%20of%20a%20number/188.go) [Java](/src/188.%20The%20hyperexponentiation%20of%20a%20number/188.java) |
+|188|[The hyperexponentiation of a number](https://projecteuler.net/problem=188)|[Go](/src/188.%20The%20hyperexponentiation%20of%20a%20number/188.go) [Java](/src/188.%20The%20hyperexponentiation%20of%20a%20number/188.java) [Ruby](/src/188.%20The%20hyperexponentiation%20of%20a%20number/188.rb) |
 |204|[Generalised Hamming Numbers](https://projecteuler.net/problem=204)|[C++](/src/204.%20Generalised%20Hamming%20Numbers/204.cpp) [Java](/src/204.%20Generalised%20Hamming%20Numbers/204.java) |
 |205|[Dice Game](https://projecteuler.net/problem=205)|[Go](/src/205.%20Dice%20Game/205.go) [Python](/src/205.%20Dice%20Game/205.py) [Ruby](/src/205.%20Dice%20Game/205.rb) |
 |206|[Concealed Square](https://projecteuler.net/problem=206)|[Go](/src/206.%20Concealed%20Square/206.go) [Java](/src/206.%20Concealed%20Square/206.java) [Lua](/src/206.%20Concealed%20Square/206.lua) [Python](/src/206.%20Concealed%20Square/206.py) [Ruby](/src/206.%20Concealed%20Square/206.rb) |
